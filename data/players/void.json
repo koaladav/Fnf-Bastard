@@ -1,0 +1,148 @@
+{
+  "version": "1.0.0",
+  "name": "void",
+  "ownedChars": [
+    "void",
+    "voidvolteado"
+  ],
+  "showUnownedChars": false,
+  "unlocked": true,
+  "freeplayStyle": "void",
+  "stickerPack": "standard-void",
+  "freeplayDJ": {
+    "assetPath": "freeplay/freeplay-void",
+    "text1": "VOID",
+    "text2": "ME VOY A CULEAR UN PONNIE",
+    "text3": "TU QUE O QUE",
+    "fistPump": {
+      "introStartFrame": 0,
+      "introEndFrame": 3,
+
+      "loopStartFrame": 4,
+      "loopEndFrame": -1,
+
+      "introBadStartFrame": 0,
+      "introBadEndFrame": 0,
+
+      "loopBadStartFrame": 0,
+      "loopBadEndFrame": -1
+    },
+    "charSelect": {
+      "transitionDelay": 0.45
+    },
+    "useAnimatePosition": true,
+    "animations": [
+      {
+        "name": "intro",
+        "prefix": "Intro",
+        "animType": "framelabel"
+      },
+      {
+        "name": "idle",
+        "prefix": "Idle",
+        "animType": "framelabel"
+      },
+      {
+        "name": "confirm",
+        "prefix": "Confirm",
+        "animType": "framelabel"
+      },
+      {
+        "name": "fistPump",
+        "prefix": "Fist Pump",
+        "animType": "framelabel"
+      },
+      {
+        "name": "loss",
+        "prefix": "Fist Pump Loss",
+        "animType": "framelabel"
+      },
+      {
+        "name": "charSelect",
+        "prefix": "To Character Select",
+        "animType": "framelabel"
+      }
+    ]
+  },
+  "charSelect": {
+    "position": 3,
+    "gf": {
+      "assetPath": "charSelect/acmChill",
+      "animInfoPath": "charSelect/acmAnimInfo",
+      "visualizer": true
+    }
+  },
+  "results": {
+    "music": {
+      "PERFECT_GOLD": "resultsPERFECT",
+      "PERFECT": "resultsPERFECT",
+      "EXCELLENT": "resultsEXCELLENT",
+      "GREAT": "resultsGREAT",
+      "GOOD": "resultsGOOD",
+      "SHIT": "resultsSHIT"
+    },
+    "perfectGold": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-void/resultsPERFECT",
+        "zIndex": 500,
+        "scale": 1.25,
+        "offsets": [385, 25],
+        "loopFrame": 30
+      }
+    ],
+    "perfect": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-void/resultsPERFECT",
+        "zIndex": 500,
+        "scale": 1.25,
+        "offsets": [385, 25],
+        "loopFrame": 30
+      }
+    ],
+    "excellent": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-void/resultsEXCELLENT",
+        "zIndex": 500,
+        "scale": 1.25,
+        "offsets": [-100, 25],
+        "looped": true,
+        "loopFrame": 125
+      }
+    ],
+    "great": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-void/resultsGREAT",
+        "zIndex": 500,
+        "scale": 1.25,
+        "offsets": [150, 25],
+        "looped": true,
+        "loopFrame": 211
+      }
+    ],
+    "good": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-void/resultsGOOD",
+        "zIndex": 500,
+        "scale": 1.25,
+        "offsets": [-100, -100],
+        "looped": true,
+        "loopFrame": 103
+      }
+    ],
+    "loss": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-void/resultsSHIT",
+        "zIndex": 500,
+        "offsets": [-185, -300],
+        "looped": true,
+        "loopFrame": 157
+      }
+    ]
+  }
+}

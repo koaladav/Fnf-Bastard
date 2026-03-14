@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "name": "AlexB",
+  "assetPath": "characters/AlexB",
+  "startingAnimation": "danceRight",
+  "renderType": "multisparrow",
+  "offsets": [0, -100],
+  "animations": [
+    {
+      "name": "danceLeft",
+      "prefix": "alexidle",
+      "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+      "offsets": [0, -200]
+    },
+    {
+      "name": "danceRight",
+      "prefix": "alexidle",
+      "frameIndices": [
+        16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+      ],
+      "offsets": [0, -200]
+    },
+    {
+      "name": "combo50",
+      "prefix": "cheer2",
+      "offsets": [0, -200]
+    },
+    {
+      "name": "drop70",
+      "prefix": "alexmiss",
+      "offsets": [0, -200]
+    },
+    {
+      "name": "combo200",
+      "prefix": "celebrar1",
+      "frameIndices": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8 ,8 ,9 ,10 ,11 ,12 ,13 ,14 ,15 ,16 ,17 ,18 ,19 ,20 ,21 ,22 ,23 ,24 ,25 ,26 ,27 ,28 ,29 ,30
+      ],
+      "offsets": [0, -200]
+    },
+    {
+      "name": "raiseKnife",
+      "prefix": "predormiralex",
+      "offsets": [0, -200]
+    },
+    {
+      "name": "idleKnife",
+      "prefix": "alexdream",
+      "offsets": [0, -200]
+    },
+    {
+      "name": "lowerKnife",
+      "prefix": "wakiwakialex",
+      "offsets": [0, -200]
+    }
+  ]
+}

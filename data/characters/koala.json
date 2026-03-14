@@ -1,0 +1,92 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "koala",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": false,
+	"singTime": 8,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"assetPath": "characters/koala",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "koala",
+		"flipX": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "KoalaIdle",
+			"looped": true,
+			"name": "idle",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				121,
+				4
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "KoalaLeft",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				111,
+				-129
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "KoalaDown",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				79,
+				48
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "KoalaUp",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-19,
+				-47
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "KoalaRight",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false
+		}
+	]
+}

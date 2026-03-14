@@ -1,0 +1,74 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 0,
+      "position": [-549, -340],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "bg",
+      "isPixel": false,
+      "assetPath": "Studio Skull/Studioskull",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 1,
+      "position": [-559, -323],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "unosgeys",
+      "isPixel": false,
+      "assetPath": "Studio Skull/geys",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+    {
+      "alpha": 0.4,      
+      "danceEvery": 0,
+      "zIndex": 400,
+      "position": [-548, -331],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "eldiablo",
+      "isPixel": false,
+      "assetPath": "Studio Skull/luz",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 401,
+      "position": [-521, -574],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "loquesefumakoala",
+      "isPixel": false,
+      "assetPath": "Studio Skull/foco",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.75,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1217.5, 903],
+      "cameraOffsets": [-65, -76]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [233, 906],
+      "cameraOffsets": [92, -100]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [-18, 109],
+      "position": [751.5, 687]
+    }
+  },
+  "name": "Studio Skull",
+  "directory": "Studio Skull"
+}

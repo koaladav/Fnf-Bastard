@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="Bobipixel.png" width="75" height="69">
+	<SubTexture name="confirm-hold0004" x="1" y="1" width="35" height="32" frameX="-9" frameY="-11" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0001" x="1" y="36" width="35" height="32" frameX="-9" frameY="-11" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0002" x="39" y="1" width="35" height="30" frameX="-9" frameY="-13" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0003" x="39" y="34" width="34" height="34" frameX="-9" frameY="-10" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0004" x="1" y="1" width="35" height="32" frameX="-9" frameY="-11" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="idle0001" x="1" y="36" width="35" height="32" frameX="-9" frameY="-11" frameWidth="50" frameHeight="50"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+  "version": "1.0.2",
+  "name": "PasilloBastardoDer",
+  "props": [
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [      ],
+      "assetPath": "PasilloBastardoDer/Pasillo",
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "Pasillo",
+      "position": [
+        -800,
+        -600
+      ],
+      "scale": 1.75,
+      "scroll": [
+        1,
+        1
+      ],
+      "startingAnimation": "",
+      "zIndex": 1
+    }
+  ],
+  "characters": {
+    "bf": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        1200,
+        200
+      ],
+      "position": [
+        -50,
+        400.7
+      ],
+      "scale": 2.3,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 300
+    },
+    "dad": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        -650,
+        -300
+      ],
+      "position": [
+        1802,
+        1093
+      ],
+      "scale": 1.15,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 200
+    },
+    "gf": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        -100,
+        0
+      ],
+      "position": [
+        751.5,
+        787
+      ],
+      "scale": 1,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 0
+    }
+  },
+  "cameraZoom": 0.6,
+  "directory": "PasilloBastardoDer"
+}

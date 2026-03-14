@@ -1,0 +1,3475 @@
+{
+"ANIMATION":{
+"name":"poses de vicotria v2",
+"StageInstance":{
+"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":332.5,"y":123.5},
+"loop":"loop",
+"Matrix":[1,0,0,1,556.3,337.45]
+}},
+"SYMBOL_name":"P rank/idle",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":124,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/pastel de coco",
+"symbolType":"movieclip",
+"transformationPoint":{"x":114.05,"y":67.8},
+"Matrix":[1,0,0,1,122.65,70.35]
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":124,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/escritorio",
+"symbolType":"movieclip",
+"transformationPoint":{"x":459.35,"y":171.6},
+"Matrix":[1,0,0,1,-126.85,108.4]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/bowl",
+"symbolType":"movieclip",
+"transformationPoint":{"x":88.7,"y":62.9},
+"Matrix":[1,0,0,1,525.4,47.75]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/batuta",
+"symbolType":"movieclip",
+"transformationPoint":{"x":101.15,"y":35.65},
+"Matrix":[1,0,0,1,513.7,140.55]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/coco",
+"symbolType":"movieclip",
+"transformationPoint":{"x":38.75,"y":38.2},
+"Matrix":[1,0,0,1,449.55,97.1]
+}}]}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":124,
+"elements":[]
+}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":82,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.999,0.043,-0.043,0.999,354.25,-24.8]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.982,-0.187,-0.187,0.982,277.35,0.55]
+}}]},{
+"index":1,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.994,0.112,-0.112,0.994,359.9,-27.05]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75},
+"loop":"singleframe",
+"Matrix":[-0.994,-0.11,-0.11,0.994,272.5,-3.6]
+}}]},{
+"index":3,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.998,0.057,-0.057,0.998,355.35,-17.9]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.75,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.984,-0.178,-0.178,0.984,276.8,7.75]
+}}]},{
+"index":6,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.994,0.108,-0.108,0.994,359.55,-18.8]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.994,-0.105,-0.105,0.994,272.2,4]
+}}]},{
+"index":9,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.987,0.16,-0.16,0.987,364,-19]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.998,-0.054,-0.054,0.998,268.75,3]
+}}]},{
+"index":12,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.978,0.211,-0.211,0.978,370.15,-19.9]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-1,0.01,0.01,1,265.5,1.65]
+}}]},{
+"index":15,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.965,0.263,-0.261,0.965,376.9,-15]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.8,"y":75.1},
+"loop":"singleframe",
+"Matrix":[-0.998,0.064,0.066,0.997,263.1,5.05]
+}}]},{
+"index":17,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.95,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.939,0.344,-0.344,0.939,386.3,-16.95]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[-0.989,0.144,0.144,0.989,257.7,2.45]
+}}]},{
+"index":19,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.965,0.263,-0.261,0.965,376.9,-15]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.8,"y":75.1},
+"loop":"singleframe",
+"Matrix":[-0.998,0.064,0.066,0.997,263.1,5.05]
+}}]},{
+"index":21,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.978,0.211,-0.211,0.978,370.15,-19.9]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-1,0.01,0.01,1,265.5,1.65]
+}}]},{
+"index":24,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.987,0.16,-0.16,0.987,364,-19]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.998,-0.054,-0.054,0.998,268.75,3]
+}}]},{
+"index":27,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.994,0.108,-0.108,0.994,359.55,-18.8]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.994,-0.105,-0.105,0.994,272.2,4]
+}}]},{
+"index":30,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.998,0.057,-0.057,0.998,355.35,-17.9]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.75,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.984,-0.178,-0.178,0.984,276.8,7.75]
+}}]},{
+"index":33,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.994,0.112,-0.112,0.994,359.9,-27.05]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75},
+"loop":"singleframe",
+"Matrix":[-0.994,-0.11,-0.11,0.994,272.5,-3.6]
+}}]},{
+"index":35,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":82,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.999,0.043,-0.043,0.999,354.25,-24.8]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.982,-0.187,-0.187,0.982,277.35,0.55]
+}}]},{
+"index":36,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":82,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.999,0.043,-0.043,0.999,354.25,-24.8]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.982,-0.187,-0.187,0.982,277.35,0.55]
+}}]},{
+"index":37,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.994,0.112,-0.112,0.994,359.9,-27.05]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75},
+"loop":"singleframe",
+"Matrix":[-0.994,-0.11,-0.11,0.994,272.5,-3.6]
+}}]},{
+"index":39,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.998,0.057,-0.057,0.998,355.35,-17.9]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.75,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.984,-0.178,-0.178,0.984,276.8,7.75]
+}}]},{
+"index":42,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.994,0.108,-0.108,0.994,359.55,-18.8]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.994,-0.105,-0.105,0.994,272.2,4]
+}}]},{
+"index":45,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.987,0.16,-0.16,0.987,364,-19]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.998,-0.054,-0.054,0.998,268.75,3]
+}}]},{
+"index":48,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.978,0.211,-0.211,0.978,370.15,-19.9]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-1,0.01,0.01,1,265.5,1.65]
+}}]},{
+"index":51,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.965,0.263,-0.261,0.965,376.9,-15]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.8,"y":75.1},
+"loop":"singleframe",
+"Matrix":[-0.998,0.064,0.066,0.997,263.1,5.05]
+}}]},{
+"index":53,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.95,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.939,0.344,-0.344,0.939,386.3,-16.95]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[-0.989,0.144,0.144,0.989,257.7,2.45]
+}}]},{
+"index":55,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.965,0.263,-0.261,0.965,376.9,-15]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.8,"y":75.1},
+"loop":"singleframe",
+"Matrix":[-0.998,0.064,0.066,0.997,263.1,5.05]
+}}]},{
+"index":57,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.978,0.211,-0.211,0.978,370.15,-19.9]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-1,0.01,0.01,1,265.5,1.65]
+}}]},{
+"index":60,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.987,0.16,-0.16,0.987,364,-19]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.998,-0.054,-0.054,0.998,268.75,3]
+}}]},{
+"index":63,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.994,0.108,-0.108,0.994,359.55,-18.8]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.994,-0.105,-0.105,0.994,272.2,4]
+}}]},{
+"index":66,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.998,0.057,-0.057,0.998,355.35,-17.9]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.75,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.984,-0.178,-0.178,0.984,276.8,7.75]
+}}]},{
+"index":69,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.994,0.112,-0.112,0.994,359.9,-27.05]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75},
+"loop":"singleframe",
+"Matrix":[-0.994,-0.11,-0.11,0.994,272.5,-3.6]
+}}]},{
+"index":71,
+"duration":10,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":82,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.999,0.043,-0.043,0.999,354.25,-24.8]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.982,-0.187,-0.187,0.982,277.35,0.55]
+}}]},{
+"index":81,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.95,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.999,0.043,-0.043,0.999,353.25,-24.3]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.1},
+"loop":"singleframe",
+"Matrix":[-0.982,-0.187,-0.187,0.982,276.35,1.05]
+}}]},{
+"index":83,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":82,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.996,0.095,-0.095,0.996,358.85,-27.75]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.8,"y":75.1},
+"loop":"singleframe",
+"Matrix":[-0.994,-0.109,-0.109,0.994,269.5,-5.15]
+}}]},{
+"index":85,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":82,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.989,0.146,-0.146,0.989,362.2,-28.5]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.8,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.999,-0.045,-0.045,0.999,262.5,-7.35]
+}}]},{
+"index":87,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":82,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.978,0.21,-0.21,0.978,367.95,-29.35]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.75,"y":75},
+"loop":"singleframe",
+"Matrix":[-0.998,0.055,0.055,0.998,252.5,-12.4]
+}}]},{
+"index":89,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.95,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.962,0.272,-0.272,0.962,373.95,-30.8]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.992,0.123,0.123,0.992,246.9,-15.1]
+}}]},{
+"index":91,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.948,0.317,-0.317,0.948,378.5,-33.45]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.8,"y":75.1},
+"loop":"singleframe",
+"Matrix":[-0.984,0.174,0.174,0.984,242.45,-18.7]
+}}]},{
+"index":93,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.8,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.962,0.272,-0.272,0.962,374.45,-31.7]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.8,"y":75.1},
+"loop":"singleframe",
+"Matrix":[-0.994,0.106,0.106,0.994,247.35,-14.85]
+}}]},{
+"index":94,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":74.95},
+"loop":"singleframe",
+"Matrix":[0.979,0.205,-0.205,0.979,368.05,-33.9]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75},
+"loop":"singleframe",
+"Matrix":[-0.999,0.024,0.024,0.999,253.95,-15.55]
+}}]},{
+"index":97,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":1,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.9,"y":74.95},
+"loop":"singleframe",
+"Matrix":[0.979,0.205,-0.205,0.979,368.05,-37.9]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":1,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75},
+"loop":"singleframe",
+"Matrix":[-0.999,0.024,0.024,0.999,253.95,-19.55]
+}}]},{
+"index":99,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":120.1,"y":88.35},
+"loop":"singleframe",
+"Matrix":[0.964,0.267,-0.267,0.964,373.95,-48.55]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":146.3,"y":98.2},
+"loop":"singleframe",
+"Matrix":[-0.997,0.067,0.067,0.997,247.9,-30.15]
+}}]},{
+"index":100,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":120.15,"y":88.4},
+"loop":"singleframe",
+"Matrix":[0.947,0.321,-0.321,0.947,380.7,-64.15]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":146.25,"y":98.2},
+"loop":"singleframe",
+"Matrix":[-0.993,0.118,0.118,0.993,242.2,-47.6]
+}}]},{
+"index":102,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":120.15,"y":88.4},
+"loop":"singleframe",
+"Matrix":[0.919,0.39,-0.394,0.92,390.45,-75.75]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":146.3,"y":98.2},
+"loop":"singleframe",
+"Matrix":[-0.986,0.166,0.161,0.986,237.05,-58]
+}}]},{
+"index":104,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":120.2,"y":88.45},
+"loop":"singleframe",
+"Matrix":[0.89,0.453,-0.457,0.891,399.45,-80.7]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":146.3,"y":98.15},
+"loop":"singleframe",
+"Matrix":[-0.976,0.216,0.212,0.976,230.6,-64.5]
+}}]},{
+"index":105,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":120.25,"y":88.4},
+"loop":"singleframe",
+"Matrix":[0.857,0.513,-0.518,0.857,408.8,-82]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":146.25,"y":98.15},
+"loop":"singleframe",
+"Matrix":[-0.959,0.283,0.279,0.959,221.5,-67.6]
+}}]},{
+"index":107,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":1,
+"symbolType":"graphic",
+"transformationPoint":{"x":120.25,"y":88.35},
+"loop":"singleframe",
+"Matrix":[0.94,0.337,-0.341,0.941,383.2,-60.2]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":1,
+"symbolType":"graphic",
+"transformationPoint":{"x":146.25,"y":98.2},
+"loop":"singleframe",
+"Matrix":[-0.984,0.178,0.174,0.984,235.45,-46.65]
+}}]},{
+"index":109,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":77.6,"y":78.45},
+"loop":"singleframe",
+"Matrix":[0.976,0.213,-0.217,0.978,372.1,-39.4]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":78.4,"y":78.45},
+"loop":"singleframe",
+"Matrix":[-0.999,0.036,0.032,0.999,249.3,-22.7]
+}}]},{
+"index":111,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":77.6,"y":78.45},
+"loop":"singleframe",
+"Matrix":[0.976,0.213,-0.217,0.978,372.1,-25.9]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":78.4,"y":78.45},
+"loop":"singleframe",
+"Matrix":[-0.999,0.036,0.032,0.999,249.3,-9.2]
+}}]},{
+"index":112,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":82,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.978,0.21,-0.21,0.978,367.95,-29.35]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.75,"y":75},
+"loop":"singleframe",
+"Matrix":[-0.998,0.055,0.055,0.998,252.5,-12.4]
+}}]},{
+"index":114,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":82,"y":75.1},
+"loop":"singleframe",
+"Matrix":[0.989,0.146,-0.146,0.989,362.2,-28.5]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.8,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.999,-0.045,-0.045,0.999,262.5,-7.35]
+}}]},{
+"index":116,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":82,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.996,0.095,-0.095,0.996,358.85,-27.75]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.8,"y":75.1},
+"loop":"singleframe",
+"Matrix":[-0.994,-0.109,-0.109,0.994,269.5,-5.15]
+}}]},{
+"index":118,
+"duration":6,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":82,"y":75.05},
+"loop":"singleframe",
+"Matrix":[0.999,0.043,-0.043,0.999,354.25,-24.8]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":81.85,"y":75.05},
+"loop":"singleframe",
+"Matrix":[-0.982,-0.187,-0.187,0.982,277.35,0.55]
+}}]}
+]},{
+"Layer_name":"Capa 5",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,237.75,-111]
+}}]},{
+"index":1,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,237.75,-110]
+}}]},{
+"index":3,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,238.25,-106.5]
+}}]},{
+"index":6,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,239.25,-104.5]
+}}]},{
+"index":9,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,240.25,-101]
+}}]},{
+"index":12,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,241.75,-96]
+}}]},{
+"index":15,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,243.25,-92]
+}}]},{
+"index":17,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,243.75,-89.5]
+}}]},{
+"index":19,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,243.25,-92]
+}}]},{
+"index":21,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,241.75,-96]
+}}]},{
+"index":24,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,240.25,-101]
+}}]},{
+"index":27,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,239.25,-104.5]
+}}]},{
+"index":30,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,238.25,-106.5]
+}}]},{
+"index":33,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,237.75,-110]
+}}]},{
+"index":35,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,237.75,-111]
+}}]},{
+"index":36,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,237.75,-111]
+}}]},{
+"index":37,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,237.75,-110]
+}}]},{
+"index":39,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,238.25,-106.5]
+}}]},{
+"index":42,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,239.25,-104.5]
+}}]},{
+"index":45,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,240.25,-101]
+}}]},{
+"index":48,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,241.75,-96]
+}}]},{
+"index":51,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,243.25,-92]
+}}]},{
+"index":53,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,243.75,-89.5]
+}}]},{
+"index":55,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,243.25,-92]
+}}]},{
+"index":57,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,241.75,-96]
+}}]},{
+"index":60,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,240.25,-101]
+}}]},{
+"index":63,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,239.25,-104.5]
+}}]},{
+"index":66,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,238.25,-106.5]
+}}]},{
+"index":69,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,237.75,-110]
+}}]},{
+"index":71,
+"duration":4,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,237.75,-111]
+}}]},{
+"index":75,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,237.75,-111]
+}}]},{
+"index":80,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,237.75,-111]
+}}]},{
+"index":81,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,237.75,-108.5]
+}}]},{
+"index":83,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":1,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,237.75,-104.5]
+}}]},{
+"index":85,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,236.75,-100.5]
+}}]},{
+"index":87,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":3,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,235.25,-94.5]
+}}]},{
+"index":89,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":3,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,235.25,-90]
+}}]},{
+"index":91,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":3,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,235.75,-88.5]
+}}]},{
+"index":93,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":4,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,235.75,-90.5]
+}}]},{
+"index":94,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":4,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,236.25,-94]
+}}]},{
+"index":97,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":4,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,236.25,-102]
+}}]},{
+"index":100,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":4,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,232.75,-113.5]
+}}]},{
+"index":102,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":4,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,233.25,-117]
+}}]},{
+"index":104,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":4,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,233.25,-115.5]
+}}]},{
+"index":105,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":4,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,232.75,-116.5]
+}}]},{
+"index":107,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":4,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,234.75,-109.5]
+}}]},{
+"index":109,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":4,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,234.25,-102]
+}}]},{
+"index":111,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":4,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,234.25,-99]
+}}]},{
+"index":112,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":3,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,235.25,-94.5]
+}}]},{
+"index":114,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,236.75,-100.5]
+}}]},{
+"index":116,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":1,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,237.75,-104.5]
+}}]},{
+"index":118,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"singleframe",
+"Matrix":[1,0,0,1,237.75,-108.5]
+}}]},{
+"index":120,
+"duration":4,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.5,"y":60.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,237.75,-111]
+}}]}
+]},{
+"Layer_name":"Capa 6",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-204.55]
+}}]},{
+"index":1,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-203.55]
+}}]},{
+"index":3,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,160.25,-200.05]
+}}]},{
+"index":6,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,161.25,-198.05]
+}}]},{
+"index":9,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,162.25,-194.55]
+}}]},{
+"index":12,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,163.75,-189.55]
+}}]},{
+"index":15,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,165.25,-185.55]
+}}]},{
+"index":17,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,165.75,-183.05]
+}}]},{
+"index":19,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,165.25,-185.55]
+}}]},{
+"index":21,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,163.75,-189.55]
+}}]},{
+"index":24,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,162.25,-194.55]
+}}]},{
+"index":27,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,161.25,-198.05]
+}}]},{
+"index":30,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,160.25,-200.05]
+}}]},{
+"index":33,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-203.55]
+}}]},{
+"index":35,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-204.55]
+}}]},{
+"index":36,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-204.55]
+}}]},{
+"index":37,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-203.55]
+}}]},{
+"index":39,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,160.25,-200.05]
+}}]},{
+"index":42,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,161.25,-198.05]
+}}]},{
+"index":45,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,162.25,-194.55]
+}}]},{
+"index":48,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,163.75,-189.55]
+}}]},{
+"index":51,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,165.25,-185.55]
+}}]},{
+"index":53,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,165.75,-183.05]
+}}]},{
+"index":55,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,165.25,-185.55]
+}}]},{
+"index":57,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,163.75,-189.55]
+}}]},{
+"index":60,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,162.25,-194.55]
+}}]},{
+"index":63,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,161.25,-198.05]
+}}]},{
+"index":66,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,160.25,-200.05]
+}}]},{
+"index":69,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-203.55]
+}}]},{
+"index":71,
+"duration":10,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-204.55]
+}}]},{
+"index":81,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-202.05]
+}}]},{
+"index":83,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-198.05]
+}}]},{
+"index":85,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,158.75,-194.05]
+}}]},{
+"index":87,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,157.25,-188.55]
+}}]},{
+"index":89,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,157.25,-184.05]
+}}]},{
+"index":91,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,157.75,-182.55]
+}}]},{
+"index":93,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,157.75,-184.55]
+}}]},{
+"index":94,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,158.25,-187.05]
+}}]},{
+"index":97,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,158.25,-192.05]
+}}]},{
+"index":100,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,154.75,-201.55]
+}}]},{
+"index":102,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,155.25,-204.05]
+}}]},{
+"index":104,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,155.25,-202.05]
+}}]},{
+"index":105,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,155.25,-199.55]
+}}]},{
+"index":107,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,157.25,-194.05]
+}}]},{
+"index":109,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,156.75,-188.55]
+}}]},{
+"index":112,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,157.25,-188.55]
+}}]},{
+"index":114,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,158.75,-194.05]
+}}]},{
+"index":116,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-198.05]
+}}]},{
+"index":118,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-202.05]
+}}]},{
+"index":120,
+"duration":4,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":136.5,"y":111.55},
+"loop":"loop",
+"Matrix":[1,0,0,1,159.75,-204.55]
+}}]}
+]},{
+"Layer_name":"Capa 7",
+"Frames":[
+{
+"index":0,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":103.65},
+"Matrix":[1,0,0,1,218,-46]
+}}]},{
+"index":3,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":207.3},
+"Matrix":[1.011,0,0,0.99,217,-44]
+}}]},{
+"index":6,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":207.4},
+"Matrix":[1.032,0,0,0.978,215,-41.5]
+}}]},{
+"index":9,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.55,"y":207.45},
+"Matrix":[1.053,0,0,0.964,213,-38.45]
+}}]},{
+"index":12,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.6,"y":207.5},
+"Matrix":[1.079,0,0,0.947,210.5,-34.95]
+}}]},{
+"index":15,
+"duration":6,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.65,"y":207.4},
+"Matrix":[1.111,0,0,0.93,207.55,-31.45]
+}}]},{
+"index":21,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.6,"y":207.5},
+"Matrix":[1.079,0,0,0.947,210.5,-34.95]
+}}]},{
+"index":24,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.55,"y":207.45},
+"Matrix":[1.053,0,0,0.964,213,-38.45]
+}}]},{
+"index":27,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":207.4},
+"Matrix":[1.032,0,0,0.978,215,-41.5]
+}}]},{
+"index":30,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":207.3},
+"Matrix":[1.011,0,0,0.99,217,-44]
+}}]},{
+"index":33,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":103.65},
+"Matrix":[1,0,0,1,218,-46]
+}}]},{
+"index":36,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":103.65},
+"Matrix":[1,0,0,1,218,-46]
+}}]},{
+"index":39,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":207.3},
+"Matrix":[1.011,0,0,0.99,217,-44]
+}}]},{
+"index":42,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":207.4},
+"Matrix":[1.032,0,0,0.978,215,-41.5]
+}}]},{
+"index":45,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.55,"y":207.45},
+"Matrix":[1.053,0,0,0.964,213,-38.45]
+}}]},{
+"index":48,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.6,"y":207.5},
+"Matrix":[1.079,0,0,0.947,210.5,-34.95]
+}}]},{
+"index":51,
+"duration":6,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.65,"y":207.4},
+"Matrix":[1.111,0,0,0.93,207.55,-31.45]
+}}]},{
+"index":57,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.6,"y":207.5},
+"Matrix":[1.079,0,0,0.947,210.5,-34.95]
+}}]},{
+"index":60,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.55,"y":207.45},
+"Matrix":[1.053,0,0,0.964,213,-38.45]
+}}]},{
+"index":63,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":207.4},
+"Matrix":[1.032,0,0,0.978,215,-41.5]
+}}]},{
+"index":66,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":207.3},
+"Matrix":[1.011,0,0,0.99,217,-44]
+}}]},{
+"index":69,
+"duration":12,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":103.65},
+"Matrix":[1,0,0,1,218,-46]
+}}]},{
+"index":81,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.55,"y":207.35},
+"Matrix":[1.016,0,0.012,0.995,214,-45]
+}}]},{
+"index":83,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.4,"y":207.2},
+"Matrix":[1.032,0,0.024,0.988,209.95,-43.45]
+}}]},{
+"index":85,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.45,"y":207.15},
+"Matrix":[1.048,0,0.034,0.978,206.5,-41.45]
+}}]},{
+"index":87,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.45,"y":207.15},
+"Matrix":[1.069,0,0.043,0.973,202.55,-40.45]
+}}]},{
+"index":89,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.25,"y":207.1},
+"Matrix":[1.09,0,0.052,0.964,198.6,-38.45]
+}}]},{
+"index":94,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.3,"y":207.1},
+"Matrix":[1.079,0,0.053,0.969,199.55,-39.45]
+}}]},{
+"index":97,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.35,"y":207.05},
+"Matrix":[1.063,0,0.054,0.99,200.8,-43.95]
+}}]},{
+"index":100,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.35,"y":207},
+"Matrix":[1.031,0,0.057,1.046,203.25,-55.45]
+}}]},{
+"index":105,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.2,"y":207.1},
+"Matrix":[1.053,0,0.056,1.031,201.4,-52.4]
+}}]},{
+"index":107,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.3,"y":207.1},
+"Matrix":[1.074,0,0.054,0.997,199.75,-45.4]
+}}]},{
+"index":109,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.35,"y":207.1},
+"Matrix":[1.1,0,0.053,0.969,197.6,-39.4]
+}}]},{
+"index":112,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.45,"y":207.15},
+"Matrix":[1.069,0,0.043,0.973,202.55,-40.45]
+}}]},{
+"index":114,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.45,"y":207.15},
+"Matrix":[1.048,0,0.034,0.978,206.5,-41.45]
+}}]},{
+"index":116,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.4,"y":207.2},
+"Matrix":[1.032,0,0.024,0.988,209.95,-43.45]
+}}]},{
+"index":118,
+"duration":6,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"symbolType":"movieclip",
+"transformationPoint":{"x":94.5,"y":103.65},
+"Matrix":[1,0,0,1,218,-46]
+}}]}
+]},{
+"Layer_name":"Capa 8",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.91,-0.414,0.414,0.91,353.75,0.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.926,-0.377,-0.377,0.926,266.9,1.55]
+}}]},{
+"index":1,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.927,-0.374,0.374,0.927,353.75,0.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.941,-0.337,-0.337,0.941,266.7,1.35]
+}}]},{
+"index":3,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.942,-0.334,0.334,0.942,353.75,2.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.15},
+"Matrix":[-0.956,-0.292,-0.292,0.956,266.5,3.1]
+}}]},{
+"index":6,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.942,-0.334,0.334,0.942,355.25,4.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.15},
+"Matrix":[-0.956,-0.292,-0.292,0.956,266,5.1]
+}}]},{
+"index":9,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0.05},
+"Matrix":[0.956,-0.294,0.294,0.956,356.25,6.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.968,-0.25,-0.25,0.968,264.75,6.9]
+}}]},{
+"index":12,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0.05},
+"Matrix":[0.969,-0.248,0.248,0.969,357.75,8.6]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.2},
+"Matrix":[-0.979,-0.204,-0.204,0.979,263,9.2]
+}}]},{
+"index":15,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.98,-0.198,0.198,0.98,359.25,13.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.1},
+"Matrix":[-0.988,-0.157,-0.157,0.988,261.25,13.6]
+}}]},{
+"index":17,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0.05},
+"Matrix":[0.988,-0.156,0.156,0.988,359.25,14.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.993,-0.114,-0.114,0.993,261,14.45]
+}}]},{
+"index":19,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.98,-0.198,0.198,0.98,359.25,13.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.1},
+"Matrix":[-0.988,-0.157,-0.157,0.988,261.25,13.6]
+}}]},{
+"index":21,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0.05},
+"Matrix":[0.969,-0.248,0.248,0.969,357.75,8.6]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.2},
+"Matrix":[-0.979,-0.204,-0.204,0.979,263,9.2]
+}}]},{
+"index":24,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0.05},
+"Matrix":[0.956,-0.294,0.294,0.956,356.25,6.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.968,-0.25,-0.25,0.968,264.75,6.9]
+}}]},{
+"index":27,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.942,-0.334,0.334,0.942,355.25,4.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.15},
+"Matrix":[-0.956,-0.292,-0.292,0.956,266,5.1]
+}}]},{
+"index":30,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.942,-0.334,0.334,0.942,353.75,2.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.15},
+"Matrix":[-0.956,-0.292,-0.292,0.956,266.5,3.1]
+}}]},{
+"index":33,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.927,-0.374,0.374,0.927,353.75,0.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.941,-0.337,-0.337,0.941,266.7,1.35]
+}}]},{
+"index":35,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.91,-0.414,0.414,0.91,353.75,0.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.926,-0.377,-0.377,0.926,266.9,1.55]
+}}]},{
+"index":36,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.91,-0.414,0.414,0.91,353.75,0.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.926,-0.377,-0.377,0.926,266.9,1.55]
+}}]},{
+"index":37,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.927,-0.374,0.374,0.927,353.75,0.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.941,-0.337,-0.337,0.941,266.7,1.35]
+}}]},{
+"index":39,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.942,-0.334,0.334,0.942,353.75,2.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.15},
+"Matrix":[-0.956,-0.292,-0.292,0.956,266.5,3.1]
+}}]},{
+"index":42,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.942,-0.334,0.334,0.942,355.25,4.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.15},
+"Matrix":[-0.956,-0.292,-0.292,0.956,266,5.1]
+}}]},{
+"index":45,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0.05},
+"Matrix":[0.956,-0.294,0.294,0.956,356.25,6.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.968,-0.25,-0.25,0.968,264.75,6.9]
+}}]},{
+"index":48,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0.05},
+"Matrix":[0.969,-0.248,0.248,0.969,357.75,8.6]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.2},
+"Matrix":[-0.979,-0.204,-0.204,0.979,263,9.2]
+}}]},{
+"index":51,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.98,-0.198,0.198,0.98,359.25,13.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.1},
+"Matrix":[-0.988,-0.157,-0.157,0.988,261.25,13.6]
+}}]},{
+"index":53,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0.05},
+"Matrix":[0.988,-0.156,0.156,0.988,359.25,14.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.993,-0.114,-0.114,0.993,261,14.45]
+}}]},{
+"index":55,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.98,-0.198,0.198,0.98,359.25,13.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.1},
+"Matrix":[-0.988,-0.157,-0.157,0.988,261.25,13.6]
+}}]},{
+"index":57,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0.05},
+"Matrix":[0.969,-0.248,0.248,0.969,357.75,8.6]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.2},
+"Matrix":[-0.979,-0.204,-0.204,0.979,263,9.2]
+}}]},{
+"index":60,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0.05},
+"Matrix":[0.956,-0.294,0.294,0.956,356.25,6.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.968,-0.25,-0.25,0.968,264.75,6.9]
+}}]},{
+"index":63,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.942,-0.334,0.334,0.942,355.25,4.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.15},
+"Matrix":[-0.956,-0.292,-0.292,0.956,266,5.1]
+}}]},{
+"index":66,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.942,-0.334,0.334,0.942,353.75,2.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.15},
+"Matrix":[-0.956,-0.292,-0.292,0.956,266.5,3.1]
+}}]},{
+"index":69,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.927,-0.374,0.374,0.927,353.75,0.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.941,-0.337,-0.337,0.941,266.7,1.35]
+}}]},{
+"index":71,
+"duration":10,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.91,-0.414,0.414,0.91,353.75,0.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.926,-0.377,-0.377,0.926,266.9,1.55]
+}}]},{
+"index":81,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0.05},
+"Matrix":[0.91,-0.414,0.414,0.91,352.75,0.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.1},
+"Matrix":[-0.926,-0.377,-0.377,0.926,265.9,1.55]
+}}]},{
+"index":83,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.891,-0.453,0.453,0.891,352.75,3.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.1},
+"Matrix":[-0.909,-0.417,-0.417,0.909,266.1,4.75]
+}}]},{
+"index":85,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0.05},
+"Matrix":[0.873,-0.488,0.488,0.873,352.75,4.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.1},
+"Matrix":[-0.89,-0.455,-0.455,0.89,264.25,5.95]
+}}]},{
+"index":87,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0.05},
+"Matrix":[0.873,-0.488,0.488,0.873,352.25,6.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.05},
+"Matrix":[-0.89,-0.455,-0.455,0.89,263.75,7.95]
+}}]},{
+"index":89,
+"duration":4,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.873,-0.488,0.488,0.873,353.75,8.6]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.45,"y":6.1},
+"Matrix":[-0.89,-0.455,-0.455,0.89,260.75,10.45]
+}}]},{
+"index":93,
+"duration":4,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.851,-0.525,0.525,0.851,353.75,7.6]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.872,-0.49,-0.49,0.872,260.95,9.65]
+}}]},{
+"index":97,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.828,-0.561,0.561,0.828,352.25,5.6]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.05},
+"Matrix":[-0.872,-0.49,-0.49,0.872,262.95,7.65]
+}}]},{
+"index":100,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0.05},
+"Matrix":[0.801,-0.599,0.599,0.801,351.25,4.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.45,"y":6.05},
+"Matrix":[-0.848,-0.53,-0.53,0.848,262.1,6.4]
+}}]},{
+"index":102,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0.05},
+"Matrix":[0.771,-0.636,0.636,0.771,351.25,4.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.45,"y":6.1},
+"Matrix":[-0.814,-0.58,-0.58,0.814,262.35,6.7]
+}}]},{
+"index":104,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.798,-0.602,0.602,0.798,351.25,4.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.45,"y":6.15},
+"Matrix":[-0.839,-0.544,-0.544,0.839,262.2,6.45]
+}}]},{
+"index":105,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0.05},
+"Matrix":[0.826,-0.563,0.563,0.826,348.25,5.6]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.45,"y":6.15},
+"Matrix":[-0.861,-0.508,-0.508,0.861,263.5,7.7]
+}}]},{
+"index":107,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0.05},
+"Matrix":[0.854,-0.52,0.52,0.854,346.75,10.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.45,"y":6.1},
+"Matrix":[-0.887,-0.462,-0.462,0.887,265.25,11.95]
+}}]},{
+"index":109,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.878,-0.478,0.478,0.878,345.25,12.6]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.45,"y":6.05},
+"Matrix":[-0.918,-0.396,-0.396,0.918,264.9,14.15]
+}}]},{
+"index":111,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.9,-0.437,0.437,0.9,345.25,12.6]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.1},
+"Matrix":[-0.938,-0.348,-0.348,0.938,264.7,13.9]
+}}]},{
+"index":112,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0.05},
+"Matrix":[0.873,-0.488,0.488,0.873,352.25,6.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.05},
+"Matrix":[-0.89,-0.455,-0.455,0.89,263.75,7.95]
+}}]},{
+"index":114,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0.05},
+"Matrix":[0.873,-0.488,0.488,0.873,352.75,4.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.1},
+"Matrix":[-0.89,-0.455,-0.455,0.89,264.25,5.95]
+}}]},{
+"index":116,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0,"y":0},
+"Matrix":[0.891,-0.453,0.453,0.891,352.75,3.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.5,"y":6.1},
+"Matrix":[-0.909,-0.417,-0.417,0.909,266.1,4.75]
+}}]},{
+"index":118,
+"duration":6,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":0.05,"y":0},
+"Matrix":[0.91,-0.414,0.414,0.91,353.75,0.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"symbolType":"movieclip",
+"transformationPoint":{"x":2.55,"y":6.1},
+"Matrix":[-0.926,-0.377,-0.377,0.926,266.9,1.55]
+}}]}
+]}
+]}},
+"SYMBOL_DICTIONARY":{
+"Symbols":[
+{
+"SYMBOL_name":"P rank/p rank archivos/pastel de coco",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"0"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"P rank/p rank archivos/escritorio",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"1"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"P rank/p rank archivos/bowl",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"2"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"P rank/p rank archivos/batuta",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"3"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"P rank/p rank archivos/coco",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"4"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"P rank/p rank archivos/mano cheff",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.999,0,0,0.999,0,0],
+"name":"5"
+}}]},{
+"index":1,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.999,0,0,0.999,32.5,-6.35],
+"name":"6"
+}}]},{
+"index":2,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.999,0,0,0.999,58.5,-4.65],
+"name":"7"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"P rank/p rank archivos/cara void",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"8"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"P rank/p rank archivos/cara smell",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"9"
+}}]},{
+"index":1,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-7.75,13.45],
+"name":"10"
+}}]},{
+"index":2,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-13,36.25],
+"name":"11"
+}}]},{
+"index":3,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-22.5,48.15],
+"name":"12"
+}}]},{
+"index":4,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-8.25,22.15],
+"name":"13"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"Erank/E rank archivos/cabeza",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"14"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"P rank/p rank archivos/cuerpo",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.9,0,0,0.955,0,0],
+"name":"15"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"P rank/p rank archivos/brazo tras",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"16"
+}}]}
+]}
+]}}
+]},
+"metadata":{
+"version":"BTA 1.2.0",
+"name":"poses de vicotria v2",
+"backgroundColor":"#FFFFFF",
+"width":1280,
+"height":720,
+"asVersion":3,
+"framerate":24
+}}

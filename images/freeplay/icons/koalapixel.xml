@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="koalapixel.png" width="182" height="42">
+	<SubTexture name="confirm-hold0004" x="76" y="1" width="34" height="40" frameX="-10" frameY="-6" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0001" x="113" y="1" width="34" height="40" frameX="-10" frameY="-6" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0002" x="1" y="1" width="35" height="38" frameX="-10" frameY="-8" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0003" x="150" y="1" width="31" height="40" frameX="-11" frameY="-5" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0004" x="39" y="1" width="34" height="38" frameX="-10" frameY="-9" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="idle0001" x="113" y="1" width="34" height="40" frameX="-10" frameY="-6" frameWidth="50" frameHeight="50"/>
+</TextureAtlas>

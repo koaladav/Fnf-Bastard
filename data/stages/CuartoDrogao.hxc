@@ -1,0 +1,67 @@
+import flixel.FlxG;
+import flixel.addons.display.FlxBackdrop;
+import funkin.play.stage.Stage;
+import funkin.play.PlayState;
+import funkin.graphics.shaders.AdjustColorShader;
+
+class CuartoDrogao extends Stage
+{
+    var mistLayers:Array<FlxBackdrop> = [];
+    var _timer:Float = 0;
+
+    var colorShader:AdjustColorShader;
+
+    function new()
+    {
+        super("CuartoDrogao"); 
+    }
+
+    override function onCreate()
+    {
+        super.onCreate();
+
+        FlxG.camera.bgColor = 0x00000000;
+
+        var mistProps = [
+            {path:"CuartoDrogao/mistLayer1", x:-600, y:-100, scroll:1.2, alpha:0.6, zIndex:1000, velocityX:80, color:0xFF5c5c5c},
+            {path:"CuartoDrogao/mistLayer2", x:-650, y:-150, scroll:1.1, alpha:0.5, zIndex:900, velocityX:60, color:0xFF5c5c5c},
+            {path:"CuartoDrogao/mistLayer3", x:-600, y:-200, scroll:1.0, alpha:0.4, zIndex:800, velocityX:40, color:0xFF5c5c5c}
+        ];
+
+        for (props in mistProps)
+        {
+            var mist = createMist(props.path, props.x, props.y, props.scroll, props.alpha, props.zIndex, props.color, props.velocityX);
+            mistLayers.push(mist);
+            PlayState.instance.currentStage.add(mist);
+        }
+        PlayState.instance.currentStage.refresh();
+    }
+
+    function createMist(path:String, x:Float, y:Float, scroll:Float, alpha:Float, zIndex:Int, color:Int, velocityX:Float):FlxBackdrop
+    {
+        var mist = new FlxBackdrop(Paths.image(path), 0x01);
+        mist.setPosition(x, y);
+        mist.scrollFactor.set(scroll, scroll);
+        mist.alpha = alpha;
+        mist.zIndex = zIndex;
+        mist.color = color;
+        mist.velocity.x = velocityX;
+
+        mist.blend = 0; 
+
+        return mist;
+    }
+
+    override function onUpdate(elapsed:Float)
+    {
+        super.onUpdate(elapsed);
+
+        _timer += elapsed;
+
+        for (i in 0...mistLayers.length)
+        {
+            var mist = mistLayers[i];
+            mist.y = 25 + Math.sin(_timer * (0.3 + 0.1 * i)) * (30 + 10 * i);
+        }
+    }
+}

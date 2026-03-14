@@ -1,0 +1,62 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 0,
+      "position": [-549, -340],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "bg",
+      "isPixel": false,
+      "assetPath": "CuartoDrogao/Cuarto",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+        {
+      "danceEvery": 0,
+      "zIndex": 500,
+      "position": [-689, -25],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "grey1",
+      "isPixel": false,
+      "assetPath": "CuartoDrogao/greyGradient",
+      "scroll": [1, 1],
+      "alpha": 0.3,
+      "animations": []
+    },
+    {    
+      "danceEvery": 0,
+      "zIndex": 400,
+      "position": [-548, -331],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "eldiablo",
+      "isPixel": false,
+      "assetPath": "CuartoDrogao/mj",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.75,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1154.50, 915],
+      "cameraOffsets": [-100, -100]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [112.50, 937],
+      "cameraOffsets": [150, -100]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [0, 100],
+      "position": [638.50, 807]
+    }
+  },
+  "name": "CuartoDrogao",
+  "directory": "CuartoDrogao"
+}

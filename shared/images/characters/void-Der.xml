@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="void-Der.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cuerito0000" x="0" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0001" x="637" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0002" x="637" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0003" x="1274" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0004" x="1274" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0005" x="1911" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0006" x="1911" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0007" x="1274" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0008" x="1274" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0009" x="1911" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0010" x="1911" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0011" x="1274" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0012" x="1274" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0013" x="1911" y="0" width="637" height="519"/>
+	<SubTexture name="cuerito0014" x="1911" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0000" x="6737" y="4891" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0001" x="2548" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0002" x="2548" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0003" x="3185" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0004" x="3185" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0005" x="3822" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0006" x="3822" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0007" x="3185" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0008" x="3185" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0009" x="3822" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0010" x="3822" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0011" x="3185" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0012" x="3185" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0013" x="3822" y="0" width="637" height="519"/>
+	<SubTexture name="esternocleidomastoideo0014" x="3822" y="0" width="637" height="519"/>
+	<SubTexture name="funda0000" x="4459" y="0" width="637" height="519"/>
+	<SubTexture name="funda0001" x="5096" y="0" width="637" height="519"/>
+	<SubTexture name="funda0002" x="5096" y="0" width="637" height="519"/>
+	<SubTexture name="funda0003" x="5733" y="0" width="637" height="519"/>
+	<SubTexture name="funda0004" x="5733" y="0" width="637" height="519"/>
+	<SubTexture name="funda0005" x="6370" y="0" width="637" height="519"/>
+	<SubTexture name="funda0006" x="6370" y="0" width="637" height="519"/>
+	<SubTexture name="funda0007" x="5733" y="0" width="637" height="519"/>
+	<SubTexture name="funda0008" x="5733" y="0" width="637" height="519"/>
+	<SubTexture name="funda0009" x="6370" y="0" width="637" height="519"/>
+	<SubTexture name="funda0010" x="6370" y="0" width="637" height="519"/>
+	<SubTexture name="funda0011" x="5733" y="0" width="637" height="519"/>
+	<SubTexture name="funda0012" x="5733" y="0" width="637" height="519"/>
+	<SubTexture name="funda0013" x="6370" y="0" width="637" height="519"/>
+	<SubTexture name="funda0014" x="6370" y="0" width="637" height="519"/>
+	<SubTexture name="prepucio0000" x="7007" y="0" width="637" height="519"/>
+	<SubTexture name="prepucio0001" x="0" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0002" x="0" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0003" x="637" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0004" x="637" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0005" x="1274" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0006" x="1274" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0007" x="637" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0008" x="637" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0009" x="1274" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0010" x="1274" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0011" x="637" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0012" x="637" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0013" x="1274" y="519" width="637" height="519"/>
+	<SubTexture name="prepucio0014" x="1274" y="519" width="637" height="519"/>
+	<SubTexture name="voidconfirm0000" x="1911" y="519" width="673" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0001" x="2584" y="519" width="673" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0002" x="3257" y="519" width="681" height="490" frameX="-107" frameY="-19" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0003" x="3938" y="519" width="681" height="490" frameX="-107" frameY="-19" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0004" x="4619" y="519" width="667" height="508" frameX="-104" frameY="0" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0005" x="5286" y="519" width="667" height="508" frameX="-104" frameY="0" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0006" x="5953" y="519" width="689" height="492" frameX="-93" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0007" x="6642" y="519" width="689" height="492" frameX="-93" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0008" x="7331" y="519" width="757" height="570" frameX="-25" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0009" x="0" y="1089" width="759" height="568" frameX="-23" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0010" x="759" y="1089" width="760" height="566" frameX="-22" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0011" x="1519" y="1089" width="761" height="563" frameX="-21" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0012" x="2280" y="1089" width="763" height="562" frameX="-19" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0013" x="3043" y="1089" width="764" height="560" frameX="-18" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0014" x="3807" y="1089" width="766" height="558" frameX="-16" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0015" x="4573" y="1089" width="767" height="557" frameX="-15" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0016" x="5340" y="1089" width="769" height="555" frameX="-13" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0017" x="6109" y="1089" width="770" height="553" frameX="-12" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0018" x="6879" y="1089" width="772" height="551" frameX="-10" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0019" x="0" y="1657" width="773" height="548" frameX="-9" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0020" x="773" y="1657" width="775" height="547" frameX="-7" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0021" x="1548" y="1657" width="776" height="545" frameX="-6" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0022" x="2324" y="1657" width="778" height="543" frameX="-4" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0023" x="3102" y="1657" width="779" height="541" frameX="-3" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0024" x="3881" y="1657" width="781" height="540" frameX="-1" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0025" x="4662" y="1657" width="782" height="540" frameX="0" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0026" x="5444" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0027" x="6119" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0028" x="6119" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0029" x="5444" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0030" x="5444" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0031" x="6119" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0032" x="6119" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0033" x="5444" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0034" x="5444" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0035" x="6119" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0036" x="6119" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0037" x="5444" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0038" x="5444" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0039" x="6119" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0040" x="6119" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0041" x="5444" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voidconfirm0042" x="5444" y="1657" width="675" height="492" frameX="-107" frameY="-16" frameWidth="788" frameHeight="586"/>
+	<SubTexture name="voiddie0000" x="6794" y="1657" width="395" height="554" frameX="-410" frameY="-14" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0001" x="7189" y="1657" width="418" height="529" frameX="-403" frameY="-39" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0002" x="7189" y="1657" width="418" height="529" frameX="-403" frameY="-39" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0003" x="7607" y="1657" width="437" height="529" frameX="-369" frameY="-39" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0004" x="7607" y="1657" width="437" height="529" frameX="-369" frameY="-39" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0005" x="0" y="2211" width="533" height="523" frameX="-274" frameY="-45" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0006" x="0" y="2211" width="533" height="523" frameX="-274" frameY="-45" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0007" x="533" y="2211" width="761" height="615" frameX="-46" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0008" x="533" y="2211" width="761" height="615" frameX="-46" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0009" x="1294" y="2211" width="784" height="623" frameX="-23" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0010" x="2078" y="2211" width="784" height="623" frameX="-23" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0011" x="2862" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0012" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0013" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0014" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0015" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0016" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0017" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0018" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0019" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0020" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0021" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0022" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0023" x="3669" y="2211" width="807" height="630" frameX="0" frameY="-42" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0024" x="4476" y="2211" width="812" height="633" frameX="0" frameY="-39" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0025" x="4476" y="2211" width="812" height="633" frameX="0" frameY="-39" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0026" x="5288" y="2211" width="818" height="660" frameX="0" frameY="-12" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0027" x="6106" y="2211" width="836" height="672"/>
+	<SubTexture name="voiddie0028" x="6106" y="2211" width="836" height="672"/>
+	<SubTexture name="voiddie0029" x="6942" y="2211" width="754" height="598" frameX="0" frameY="-74" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0030" x="6942" y="2211" width="754" height="598" frameX="0" frameY="-74" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0031" x="0" y="2883" width="714" height="462" frameX="0" frameY="-210" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0032" x="0" y="2883" width="714" height="462" frameX="0" frameY="-210" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0033" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0034" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0035" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0036" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0037" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0038" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0039" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0040" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0041" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0042" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0043" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0044" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0045" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0046" x="714" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0047" x="1426" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0048" x="1426" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0049" x="2138" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0050" x="2138" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0051" x="1426" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0052" x="1426" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0053" x="2138" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0054" x="2138" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0055" x="1426" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0056" x="1426" y="2883" width="712" height="473" frameX="0" frameY="-199" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0057" x="2850" y="2883" width="712" height="462" frameX="0" frameY="-210" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0058" x="2850" y="2883" width="712" height="462" frameX="0" frameY="-210" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0059" x="3562" y="2883" width="682" height="508" frameX="0" frameY="-164" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0060" x="3562" y="2883" width="682" height="508" frameX="0" frameY="-164" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0061" x="4244" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0062" x="4244" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0063" x="4917" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0064" x="4917" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0065" x="4244" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0066" x="4244" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0067" x="4917" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0068" x="4917" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0069" x="4244" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0070" x="4244" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0071" x="4917" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0072" x="4917" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0073" x="4244" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddie0074" x="4244" y="2883" width="673" height="492" frameX="0" frameY="-180" frameWidth="836" frameHeight="672"/>
+	<SubTexture name="voiddown0000" x="7007" y="0" width="637" height="519"/>
+	<SubTexture name="voiddown0001" x="7007" y="0" width="637" height="519"/>
+	<SubTexture name="voiddown0002" x="5590" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0003" x="5590" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0004" x="6227" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0005" x="6227" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0006" x="6864" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0007" x="6864" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0008" x="6864" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0009" x="6864" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0010" x="6864" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0011" x="6864" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0012" x="6864" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0013" x="6864" y="2883" width="637" height="519"/>
+	<SubTexture name="voiddown0014" x="6864" y="2883" width="637" height="519"/>
+	<SubTexture name="voididle0000" x="7501" y="2883" width="637" height="519"/>
+	<SubTexture name="voididle0001" x="7501" y="2883" width="637" height="519"/>
+	<SubTexture name="voididle0002" x="0" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0003" x="0" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0004" x="637" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0005" x="637" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0006" x="1274" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0007" x="1274" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0008" x="1911" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0009" x="1911" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0010" x="1911" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0011" x="1911" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0012" x="1911" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0013" x="1911" y="3402" width="637" height="519"/>
+	<SubTexture name="voididle0014" x="1911" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0000" x="0" y="0" width="637" height="519"/>
+	<SubTexture name="voidleft0001" x="0" y="0" width="637" height="519"/>
+	<SubTexture name="voidleft0002" x="2548" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0003" x="2548" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0004" x="3185" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0005" x="3185" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0006" x="3822" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0007" x="3822" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0008" x="3822" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0009" x="3822" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0010" x="3822" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0011" x="3822" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0012" x="3822" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0013" x="3822" y="3402" width="637" height="519"/>
+	<SubTexture name="voidleft0014" x="3822" y="3402" width="637" height="519"/>
+	<SubTexture name="voidloop0000" x="4459" y="3402" width="673" height="492" frameX="0" frameY="-8" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0001" x="5132" y="3402" width="673" height="492" frameX="0" frameY="-8" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0002" x="5805" y="3402" width="672" height="489" frameX="0" frameY="-11" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0003" x="6477" y="3402" width="672" height="489" frameX="0" frameY="-11" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0004" x="7149" y="3402" width="674" height="491" frameX="0" frameY="-9" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0005" x="0" y="3921" width="675" height="491" frameX="0" frameY="-9" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0006" x="675" y="3921" width="680" height="488" frameX="0" frameY="-12" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0007" x="1355" y="3921" width="680" height="488" frameX="0" frameY="-12" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0008" x="2035" y="3921" width="688" height="481" frameX="0" frameY="-19" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0009" x="2723" y="3921" width="687" height="481" frameX="0" frameY="-19" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0010" x="3410" y="3921" width="694" height="476" frameX="0" frameY="-24" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0011" x="4104" y="3921" width="694" height="476" frameX="0" frameY="-24" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0012" x="4798" y="3921" width="693" height="470" frameX="0" frameY="-30" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0013" x="5491" y="3921" width="693" height="470" frameX="0" frameY="-30" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0014" x="6184" y="3921" width="694" height="469" frameX="0" frameY="-31" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0015" x="6878" y="3921" width="694" height="469" frameX="0" frameY="-31" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0016" x="0" y="4412" width="701" height="473" frameX="0" frameY="-27" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0017" x="701" y="4412" width="701" height="473" frameX="0" frameY="-27" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0018" x="1402" y="4412" width="705" height="466" frameX="0" frameY="-34" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0019" x="2107" y="4412" width="705" height="466" frameX="0" frameY="-34" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0020" x="2812" y="4412" width="708" height="464" frameX="0" frameY="-36" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0021" x="3520" y="4412" width="710" height="464" frameX="0" frameY="-36" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0022" x="4230" y="4412" width="715" height="470" frameX="0" frameY="-30" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0023" x="4945" y="4412" width="715" height="470" frameX="0" frameY="-30" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0024" x="5660" y="4412" width="710" height="474" frameX="0" frameY="-26" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0025" x="6370" y="4412" width="708" height="474" frameX="0" frameY="-26" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0026" x="7078" y="4412" width="704" height="479" frameX="0" frameY="-21" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0027" x="0" y="4891" width="704" height="479" frameX="0" frameY="-21" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0028" x="704" y="4891" width="696" height="487" frameX="0" frameY="-13" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0029" x="1400" y="4891" width="696" height="487" frameX="0" frameY="-13" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0030" x="2096" y="4891" width="689" height="497" frameX="0" frameY="-3" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0031" x="2785" y="4891" width="689" height="497" frameX="0" frameY="-3" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0032" x="3474" y="4891" width="676" height="500" frameX="0" frameY="0" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidloop0033" x="4150" y="4891" width="676" height="500" frameX="0" frameY="0" frameWidth="715" frameHeight="500"/>
+	<SubTexture name="voidright0000" x="4459" y="0" width="637" height="519"/>
+	<SubTexture name="voidright0001" x="4459" y="0" width="637" height="519"/>
+	<SubTexture name="voidright0002" x="4826" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0003" x="4826" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0004" x="5463" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0005" x="5463" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0006" x="6100" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0007" x="6100" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0008" x="6100" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0009" x="6100" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0010" x="6100" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0011" x="6100" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0012" x="6100" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0013" x="6100" y="4891" width="637" height="519"/>
+	<SubTexture name="voidright0014" x="6100" y="4891" width="637" height="519"/>
+	<SubTexture name="voidup0000" x="6737" y="4891" width="637" height="519"/>
+	<SubTexture name="voidup0001" x="6737" y="4891" width="637" height="519"/>
+	<SubTexture name="voidup0002" x="7374" y="4891" width="637" height="519"/>
+	<SubTexture name="voidup0003" x="7374" y="4891" width="637" height="519"/>
+	<SubTexture name="voidup0004" x="0" y="5410" width="637" height="519"/>
+	<SubTexture name="voidup0005" x="0" y="5410" width="637" height="519"/>
+	<SubTexture name="voidup0006" x="637" y="5410" width="637" height="519"/>
+	<SubTexture name="voidup0007" x="637" y="5410" width="637" height="519"/>
+	<SubTexture name="voidup0008" x="637" y="5410" width="637" height="519"/>
+	<SubTexture name="voidup0009" x="637" y="5410" width="637" height="519"/>
+	<SubTexture name="voidup0010" x="637" y="5410" width="637" height="519"/>
+	<SubTexture name="voidup0011" x="637" y="5410" width="637" height="519"/>
+	<SubTexture name="voidup0012" x="637" y="5410" width="637" height="519"/>
+	<SubTexture name="voidup0013" x="637" y="5410" width="637" height="519"/>
+	<SubTexture name="voidup0014" x="637" y="5410" width="637" height="519"/>
+</TextureAtlas>

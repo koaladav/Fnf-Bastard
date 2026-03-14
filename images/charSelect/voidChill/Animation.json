@@ -1,0 +1,1936 @@
+{
+"ANIMATION":{
+"name":"void bocina",
+"StageInstance":{
+"SYMBOL_Instance":{
+"SYMBOL_name":"animaciones/VOID CS",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":271.8,"y":33.35},
+"loop":"loop",
+"Matrix":[1,0,0,1,640.35,360.05]
+}},
+"SYMBOL_name":"animaciones/VOID CS",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa_2",
+"Frames":[
+{
+"index":0,
+"duration":5,
+"elements":[]
+},{
+"name":"slidein idle point",
+"index":5,
+"duration":28,
+"elements":[]
+},{
+"name":"deselect loop start",
+"index":33,
+"duration":35,
+"elements":[]
+}
+]},{
+"Layer_name":"Capa_3",
+"Frames":[
+{
+"index":0,
+"duration":15,
+"elements":[]
+},{
+"name":"idle end",
+"index":15,
+"duration":40,
+"elements":[]
+},{
+"name":"deselect loop end",
+"index":55,
+"duration":13,
+"elements":[]
+}
+]},{
+"Layer_name":"Layer 1",
+"Frames":[
+{
+"name":"idle",
+"index":0,
+"duration":15,
+"elements":[]
+},{
+"index":15,
+"duration":1,
+"elements":[]
+},{
+"name":"select",
+"index":16,
+"duration":15,
+"elements":[]
+},{
+"name":"deselect",
+"index":31,
+"duration":24,
+"elements":[]
+},{
+"index":55,
+"duration":1,
+"elements":[]
+},{
+"name":"slideout",
+"index":56,
+"duration":2,
+"elements":[]
+},{
+"name":"slidein",
+"index":58,
+"duration":10,
+"elements":[]
+},{
+"name":"unlock",
+"index":68,
+"duration":21,
+"elements":[]
+}
+]},{
+"Layer_name":"Capa_1",
+"Frames":[
+{
+"index":0,
+"duration":15,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"animaciones/void cs idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":-69.5,"y":141.1},
+"loop":"loop",
+"Matrix":[1,0,0,1,341.15,-112.65]
+}}]},{
+"index":15,
+"duration":1,
+"elements":[]
+},{
+"index":16,
+"duration":15,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"animaciones/void cs confirm",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":-36.8,"y":131.95},
+"loop":"loop",
+"Matrix":[1,0,0,1,339.8,-112.15]
+}}]},{
+"index":31,
+"duration":24,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"animaciones/void cs deselect",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":-47.6,"y":150.4},
+"loop":"loop",
+"Matrix":[1,0,0,1,340.15,-112.4]
+}}]},{
+"index":55,
+"duration":1,
+"elements":[]
+},{
+"index":56,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"animaciones/void slide out",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":-136.05,"y":140.1},
+"loop":"loop",
+"Matrix":[1,0,0,1,382.8,-112.75]
+}}]},{
+"index":58,
+"duration":10,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"animaciones/void slide in",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":74.8,"y":140.05},
+"loop":"loop",
+"Matrix":[1,0,0,1,343.05,-113]
+}}]},{
+"index":68,
+"duration":21,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"animaciones/void unlocked",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":-9.05,"y":76.45},
+"loop":"loop",
+"Matrix":[1,0,0,1,341,-112.65]
+}}]}
+]}
+]}},
+"SYMBOL_DICTIONARY":{
+"Symbols":[
+{
+"SYMBOL_name":"animaciones/void cs idle",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero void 1",
+"symbolType":"movieclip",
+"transformationPoint":{"x":10.9,"y":12.3},
+"Matrix":[1,0.018,-0.018,1,3.45,68.6]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero void 1",
+"symbolType":"movieclip",
+"transformationPoint":{"x":10.85,"y":12.35},
+"Matrix":[0.999,0.039,-0.039,0.999,7.75,61.85]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero void 1",
+"symbolType":"movieclip",
+"transformationPoint":{"x":10.85,"y":12.35},
+"Matrix":[1,0.013,-0.013,1,8.45,58.1]
+}}]},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero void 1",
+"symbolType":"movieclip",
+"transformationPoint":{"x":10.85,"y":12.3},
+"Matrix":[1,0.006,-0.006,1,8.35,58.2]
+}}]},{
+"index":8,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero void 1",
+"symbolType":"movieclip",
+"transformationPoint":{"x":44.85,"y":97.8},
+"Matrix":[1,0,0,1,8.25,58.25]
+}}]},{
+"index":10,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero void 1",
+"symbolType":"movieclip",
+"transformationPoint":{"x":44.85,"y":97.8},
+"Matrix":[1,0,0,1,8.25,58.25]
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":72.2,"y":36.9},
+"Matrix":[0.999,-0.031,0.031,0.999,-106.5,19.05]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":72.3,"y":36.95},
+"Matrix":[0.997,-0.077,0.077,0.997,-106.6,19.75]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":72.3,"y":36.95},
+"Matrix":[0.998,-0.064,0.064,0.998,-103.75,15.55]
+}}]},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":72.25,"y":36.9},
+"Matrix":[0.999,-0.038,0.038,0.999,-101.5,12.85]
+}}]},{
+"index":8,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":72.2,"y":36.9},
+"Matrix":[1,-0.021,0.021,1,-99.25,10.4]
+}}]},{
+"index":10,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":72.3,"y":36.85},
+"Matrix":[1,0,0,1,-97.8,8.45]
+}}]}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-148.6,-89.2],
+"name":"0"
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-146.65,-90.05],
+"name":"1"
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-144.35,-93.85],
+"name":"2"
+}}]},{
+"index":6,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-143.2,-95.75],
+"name":"3"
+}}]},{
+"index":8,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-141.7,-97.55],
+"name":"4"
+}}]},{
+"index":10,
+"duration":5,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-141.1,-98.75],
+"name":"5"
+}}]}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":68.25,"y":166.9},
+"Matrix":[1.049,-0.052,0.051,0.976,-101.45,44]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":68.25,"y":167},
+"Matrix":[1.027,-0.035,0.034,0.988,-97.55,38.7]
+}}]},{
+"index":4,
+"duration":6,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":77.95,"y":81.05},
+"Matrix":[1,0,0,1,-90.05,32.2]
+}}]},{
+"index":10,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":77.95,"y":81.05},
+"Matrix":[1,0,0,1,-90.05,32.2]
+}}]}
+]},{
+"Layer_name":"Capa 5",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"piernas void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":108.95,"y":111.7},
+"Matrix":[1.05,0,0,0.977,-132.95,167.8]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"piernas void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":108.9,"y":111.7},
+"Matrix":[1.028,0,0,0.989,-130.95,165.3]
+}}]},{
+"index":4,
+"duration":6,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"piernas void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":108.95,"y":111.65},
+"Matrix":[1,0,0,1,-127.95,162.75]
+}}]},{
+"index":10,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"piernas void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":108.95,"y":111.65},
+"Matrix":[1,0,0,1,-127.95,162.75]
+}}]}
+]},{
+"Layer_name":"Capa 6",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":198.6,"y":14.8},
+"Matrix":[0.999,-0.032,0.032,0.999,-234.6,87.75]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":198.6,"y":14.7},
+"Matrix":[0.999,-0.053,0.053,0.999,-237.75,88.9]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":198.6,"y":14.75},
+"Matrix":[1,-0.023,0.023,1,-235.5,75.5]
+}}]},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":198.6,"y":14.75},
+"Matrix":[1,-0.007,0.007,1,-236.35,71.2]
+}}]},{
+"index":8,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":105.15,"y":57.2},
+"Matrix":[1,0,0,1,-236.25,69.85]
+}}]},{
+"index":10,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":105.15,"y":57.2},
+"Matrix":[1,0,0,1,-236.25,69.85]
+}}]}
+]}
+]}},{
+"SYMBOL_name":"animaciones/void cs confirm",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo void confirm",
+"symbolType":"movieclip",
+"transformationPoint":{"x":38.2,"y":16.4},
+"Matrix":[1.019,-0.061,0.061,1.023,-3.6,67.4]
+}}]},{
+"index":2,
+"duration":13,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo void confirm",
+"symbolType":"movieclip",
+"transformationPoint":{"x":64.6,"y":78.85},
+"Matrix":[1,0,0,1,-1.85,65.55]
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara confirm",
+"symbolType":"movieclip",
+"transformationPoint":{"x":-3.15,"y":50.15},
+"Matrix":[0.996,-0.092,0.092,0.996,-6.65,4.8]
+}}]},{
+"index":2,
+"duration":13,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara confirm",
+"firstFrame":2,
+"symbolType":"graphic",
+"transformationPoint":{"x":-3.15,"y":50.25},
+"loop":"singleframe",
+"Matrix":[0.993,-0.121,0.121,0.993,-7.15,6.85]
+}}]}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-121.15,-97.4],
+"name":"6"
+}}]},{
+"index":2,
+"duration":13,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-121.35,-95.7],
+"name":"7"
+}}]}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":15,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":77.95,"y":81},
+"Matrix":[0.999,0.038,-0.038,0.999,-76.4,29.5]
+}}]}
+]},{
+"Layer_name":"Capa 5",
+"Frames":[
+{
+"index":0,
+"duration":15,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"piernas void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":108.95,"y":111.7},
+"Matrix":[0.999,0.038,-0.038,0.999,-119.3,158.5]
+}}]}
+]},{
+"Layer_name":"Capa 6",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":196.15,"y":20.25},
+"Matrix":[0.981,-0.195,0.195,0.981,-227.5,121.85]
+}}]},{
+"index":2,
+"duration":13,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":196.15,"y":20.2},
+"Matrix":[0.985,-0.174,0.174,0.985,-228.85,118.65]
+}}]}
+]}
+]}},{
+"SYMBOL_name":"animaciones/void cs deselect",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo void cancel",
+"symbolType":"movieclip",
+"transformationPoint":{"x":57.25,"y":16.55},
+"Matrix":[1.015,-0.031,0.031,1.01,-37.65,78.1]
+}}]},{
+"index":2,
+"duration":22,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo void cancel",
+"symbolType":"movieclip",
+"transformationPoint":{"x":75.75,"y":81},
+"Matrix":[1,0,0,1,-36.25,76.5]
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-97.1,49.1],
+"name":"8"
+}}]},{
+"index":2,
+"duration":22,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-94.95,48.05],
+"name":"9"
+}}]}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-139.3,-87.2],
+"name":"10"
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"sombra",
+"symbolType":"movieclip",
+"transformationPoint":{"x":54.95,"y":26.6},
+"Matrix":[1,-0.017,0.017,1,-80,26.85],
+"blend":11
+}}]},{
+"index":2,
+"duration":22,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-136.65,-88.1],
+"name":"11"
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"sombra",
+"symbolType":"movieclip",
+"transformationPoint":{"x":54.95,"y":26.5},
+"Matrix":[1,0,0,1,-77.25,24.9],
+"blend":11
+}}]}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":24,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":77.05,"y":161.6},
+"Matrix":[1,0,0,0.989,-82.55,36.3]
+}}]}
+]},{
+"Layer_name":"Capa 5",
+"Frames":[
+{
+"index":0,
+"duration":24,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"piernas void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":108.95,"y":111.7},
+"Matrix":[0.999,0.038,-0.038,0.988,-119.3,161.05]
+}}]}
+]},{
+"Layer_name":"Capa 6",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":196.15,"y":20.25},
+"Matrix":[0.992,-0.13,0.13,0.992,-215.8,109.45]
+}}]},{
+"index":2,
+"duration":22,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":196.15,"y":20.35},
+"Matrix":[0.994,-0.105,0.105,0.994,-216.35,103.95]
+}}]}
+]}
+]}},{
+"SYMBOL_name":"animaciones/void slide out",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-30.35,57.3],
+"name":"12"
+}}]},{
+"index":1,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-336.3,-106.95],
+"name":"13"
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-136.95,10.65],
+"name":"14"
+}}]},{
+"index":1,
+"duration":1,
+"elements":[]
+}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-179.65,-100.7],
+"name":"15"
+}}]},{
+"index":1,
+"duration":1,
+"elements":[]
+}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-130.05,32.2],
+"name":"16"
+}}]},{
+"index":1,
+"duration":1,
+"elements":[]
+}
+]},{
+"Layer_name":"Capa 5",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-167.95,162.75],
+"name":"17"
+}}]},{
+"index":1,
+"duration":1,
+"elements":[]
+}
+]},{
+"Layer_name":"Capa 6",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-272.05,72.5],
+"name":"18"
+}}]},{
+"index":1,
+"duration":1,
+"elements":[]
+}
+]}
+]}},{
+"SYMBOL_name":"animaciones/void slide in",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,147.65,-107.95],
+"name":"19"
+}}]},{
+"index":1,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-43.3,-107.95],
+"name":"20"
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-356.4,-72.85],
+"name":"21"
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-276.35,-82.85],
+"name":"22"
+}}]},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero void 1",
+"symbolType":"movieclip",
+"transformationPoint":{"x":10.9,"y":12.3},
+"Matrix":[1,0.018,-0.018,1,3.45,68.6]
+}}]},{
+"index":8,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero void 1",
+"symbolType":"movieclip",
+"transformationPoint":{"x":44.85,"y":97.8},
+"Matrix":[1,0,0,1,8.25,58.25]
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":6,
+"elements":[]
+},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":72.2,"y":36.9},
+"Matrix":[0.999,-0.031,0.031,0.999,-106.5,19.05]
+}}]},{
+"index":8,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":72.3,"y":36.85},
+"Matrix":[1,0,0,1,-97.8,8.45]
+}}]}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":6,
+"elements":[]
+},{
+"index":6,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-148.6,-89.2],
+"name":"23"
+}}]},{
+"index":8,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-141.1,-98.75],
+"name":"24"
+}}]}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":6,
+"elements":[]
+},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":68.25,"y":166.9},
+"Matrix":[1.049,-0.052,0.051,0.976,-101.45,44]
+}}]},{
+"index":8,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":77.95,"y":81.05},
+"Matrix":[1,0,0,1,-90.05,32.2]
+}}]}
+]},{
+"Layer_name":"Capa 5",
+"Frames":[
+{
+"index":0,
+"duration":6,
+"elements":[]
+},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"piernas void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":108.95,"y":111.7},
+"Matrix":[1.05,0,0,0.977,-132.95,167.8]
+}}]},{
+"index":8,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"piernas void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":108.95,"y":111.65},
+"Matrix":[1,0,0,1,-127.95,162.75]
+}}]}
+]},{
+"Layer_name":"Capa 6",
+"Frames":[
+{
+"index":0,
+"duration":6,
+"elements":[]
+},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":198.6,"y":14.8},
+"Matrix":[0.999,-0.032,0.032,0.999,-234.6,87.75]
+}}]},{
+"index":8,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":105.15,"y":57.2},
+"Matrix":[1,0,0,1,-236.25,69.85]
+}}]}
+]}
+]}},{
+"SYMBOL_name":"animaciones/void unlocked",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo fre unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":7.85,"y":72.5},
+"loop":"loop",
+"Matrix":[0.983,0.537,-0.079,0.997,113.4,-77.45]
+}}]},{
+"index":1,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo fre unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":7.8,"y":72.4},
+"loop":"loop",
+"Matrix":[0.997,0.078,-0.078,0.997,67.1,-113.1]
+}}]},{
+"index":3,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo fre unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":7.85,"y":72.45},
+"loop":"loop",
+"Matrix":[0.999,0.047,-0.047,0.999,53.05,-125.2]
+}}]},{
+"index":6,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo fre unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":85.8,"y":70.5},
+"loop":"loop",
+"Matrix":[1,0,0,1,44.7,-126.15]
+}}]},{
+"index":9,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo fre unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":8.4,"y":57.15},
+"loop":"loop",
+"Matrix":[0.999,-0.031,0.031,0.999,24.8,-102.55]
+}}]},{
+"index":11,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo fre unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":8.3,"y":57.2},
+"loop":"loop",
+"Matrix":[0.997,-0.083,0.083,0.997,10.3,-79.15]
+}}]},{
+"index":12,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo fre unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":8.3,"y":57.2},
+"loop":"loop",
+"Matrix":[0.982,-0.191,0.191,0.982,-3.7,-30.7]
+}}]},{
+"index":13,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-223.35,-44.85],
+"name":"25"
+}}]},{
+"index":15,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-209.35,-58.85],
+"name":"26"
+}}]},{
+"index":17,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero void 1",
+"symbolType":"movieclip",
+"transformationPoint":{"x":10.9,"y":12.3},
+"Matrix":[1,0.018,-0.018,1,3.45,68.6]
+}}]},{
+"index":19,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero void 1",
+"symbolType":"movieclip",
+"transformationPoint":{"x":44.85,"y":97.8},
+"Matrix":[1,0,0,1,8.25,58.25]
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara unlock",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":59.15,"y":39.3},
+"loop":"loop",
+"Matrix":[1.004,-0.399,0.193,0.941,-32.75,-3.85]
+}}]},{
+"index":1,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara unlock",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":59.15,"y":39.3},
+"loop":"loop",
+"Matrix":[0.982,-0.189,0.189,0.982,-87.75,-81.7]
+}}]},{
+"index":3,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara unlock",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":59.15,"y":39.25},
+"loop":"loop",
+"Matrix":[0.997,-0.078,0.078,0.997,-94.2,-109.6]
+}}]},{
+"index":6,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara unlock",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":59.15,"y":39.2},
+"loop":"loop",
+"Matrix":[0.998,-0.065,0.065,0.998,-98.35,-112.75]
+}}]},{
+"index":9,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara unlock",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":59.15,"y":39.3},
+"loop":"loop",
+"Matrix":[0.999,0.042,-0.042,0.999,-110.75,-102.85]
+}}]},{
+"index":11,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara unlock",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":59.15,"y":39.3},
+"loop":"loop",
+"Matrix":[0.987,0.159,-0.159,0.987,-113.55,-92.85]
+}}]},{
+"index":12,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara unlock",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":59.1,"y":39.3},
+"loop":"loop",
+"Matrix":[0.975,0.223,-0.223,0.975,-115.4,-51.95]
+}}]},{
+"index":13,
+"duration":4,
+"elements":[]
+},{
+"index":17,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":72.2,"y":36.9},
+"Matrix":[0.999,-0.031,0.031,0.999,-106.5,19.05]
+}}]},{
+"index":19,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":72.3,"y":36.85},
+"Matrix":[1,0,0,1,-97.8,8.45]
+}}]}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-77.85,-144.25],
+"name":"27"
+}}]},{
+"index":1,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-131.8,-196.2],
+"name":"28"
+}}]},{
+"index":3,
+"duration":3,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-139.55,-209.9],
+"name":"29"
+}}]},{
+"index":6,
+"duration":3,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-143.9,-211.35],
+"name":"30"
+}}]},{
+"index":9,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-162.1,-195.7],
+"name":"31"
+}}]},{
+"index":11,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-171.6,-182.65],
+"name":"32"
+}}]},{
+"index":12,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-176.9,-139.55],
+"name":"33"
+}}]},{
+"index":13,
+"duration":4,
+"elements":[]
+},{
+"index":17,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":119.75,"y":101.55},
+"Matrix":[0.999,-0.031,0.031,0.999,-153.15,-86.65]
+}}]},{
+"index":19,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza void idle",
+"symbolType":"movieclip",
+"transformationPoint":{"x":119.7,"y":101.7},
+"Matrix":[1,0,0,1,-141.1,-98.75]
+}}]}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata der",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":3,"y":54.65},
+"loop":"loop",
+"Matrix":[1.023,0.016,-0.324,0.995,90.7,65.55]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata isq",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":146.45,"y":56.15},
+"loop":"loop",
+"Matrix":[0.946,-0.622,0.138,0.991,-69.5,126.1]
+}}]},{
+"index":1,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata der",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":3.1,"y":54.6},
+"loop":"loop",
+"Matrix":[1,0.016,-0.016,1,48.85,28.3]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata isq",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":146.4,"y":56.15},
+"loop":"loop",
+"Matrix":[0.991,-0.135,0.135,0.991,-105.35,48.75]
+}}]},{
+"index":3,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata der",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":3.15,"y":54.6},
+"loop":"loop",
+"Matrix":[1,0.012,-0.012,1,31.4,15.2]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata isq",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":146.45,"y":56.15},
+"loop":"loop",
+"Matrix":[1,0.017,-0.017,1,-115.4,12.75]
+}}]},{
+"index":6,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata der",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":87.1,"y":127.7},
+"loop":"loop",
+"Matrix":[1,0,0,1,24.25,13.65]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata isq",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":79.7,"y":108.3},
+"loop":"loop",
+"Matrix":[1,0,0,1,-122.85,13.65]
+}}]},{
+"index":9,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata der",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":8.1,"y":41.5},
+"loop":"loop",
+"Matrix":[0.999,-0.053,0.053,0.999,-0.2,36.75]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata isq",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":149,"y":61.85},
+"loop":"loop",
+"Matrix":[0.992,0.129,-0.129,0.992,-136.65,17.4]
+}}]},{
+"index":11,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata der",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":8.05,"y":41.45},
+"loop":"loop",
+"Matrix":[0.998,-0.056,0.056,0.998,-16.75,58.5]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata isq",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":149.05,"y":61.85},
+"loop":"loop",
+"Matrix":[0.975,0.222,-0.222,0.975,-145.55,25.85]
+}}]},{
+"index":12,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata der",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":8,"y":41.45},
+"loop":"loop",
+"Matrix":[0.995,-0.095,0.095,0.995,-26.3,105.7]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"pata isq",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":149,"y":61.85},
+"loop":"loop",
+"Matrix":[0.963,0.264,-0.266,0.97,-149,66.65]
+}}]},{
+"index":13,
+"duration":4,
+"elements":[]
+},{
+"index":17,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":68.25,"y":166.9},
+"Matrix":[1.049,-0.052,0.051,0.976,-101.45,44]
+}}]},{
+"index":19,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":77.95,"y":81.05},
+"Matrix":[1,0,0,1,-90.05,32.2]
+}}]}
+]},{
+"Layer_name":"Capa 5",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":72.1,"y":107.85},
+"loop":"loop",
+"Matrix":[1.038,0.233,0.058,0.998,8,-93.6]
+}}]},{
+"index":1,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":72.15,"y":107.8},
+"loop":"loop",
+"Matrix":[0.998,-0.056,0.056,0.998,-31.7,-110.75]
+}}]},{
+"index":3,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":72.1,"y":107.85},
+"loop":"loop",
+"Matrix":[1,-0.013,0.013,1,-40.35,-127.25]
+}}]},{
+"index":6,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":72.15,"y":107.8},
+"loop":"loop",
+"Matrix":[1,0,0,1,-44.35,-129.7]
+}}]},{
+"index":9,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":72.1,"y":107.75},
+"loop":"loop",
+"Matrix":[0.999,0.034,-0.034,0.999,-60.35,-109.6]
+}}]},{
+"index":11,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":72.15,"y":107.85},
+"loop":"loop",
+"Matrix":[0.997,0.073,-0.073,0.997,-69.4,-90.5]
+}}]},{
+"index":12,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo unlok",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":72.15,"y":107.8},
+"loop":"loop",
+"Matrix":[0.997,0.073,-0.073,0.997,-77.4,-43.75]
+}}]},{
+"index":13,
+"duration":4,
+"elements":[]
+},{
+"index":17,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"piernas void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":108.95,"y":111.7},
+"Matrix":[1.05,0,0,0.977,-132.95,167.8]
+}}]},{
+"index":19,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"piernas void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":108.95,"y":111.65},
+"Matrix":[1,0,0,1,-127.95,162.75]
+}}]}
+]},{
+"Layer_name":"Capa 6",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":245.6,"y":42.5},
+"loop":"loop",
+"Matrix":[0.933,-0.542,0.198,0.981,-165.15,108.3]
+}}]},{
+"index":1,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":245.7,"y":42.4},
+"loop":"loop",
+"Matrix":[0.981,-0.194,0.194,0.981,-232.1,-10.3]
+}}]},{
+"index":3,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":245.65,"y":42.5},
+"loop":"loop",
+"Matrix":[0.997,-0.077,0.077,0.997,-243.85,-54.05]
+}}]},{
+"index":6,
+"duration":3,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":123.2,"y":68},
+"loop":"loop",
+"Matrix":[1,0,0,1,-246.5,-75.1]
+}}]},{
+"index":9,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":249.8,"y":52.5},
+"loop":"loop",
+"Matrix":[0.997,0.077,-0.077,0.997,-261.35,-72.6]
+}}]},{
+"index":11,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":249.75,"y":52.45},
+"loop":"loop",
+"Matrix":[0.984,0.181,-0.181,0.984,-265.85,-76.95]
+}}]},{
+"index":12,
+"duration":1,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":249.75,"y":52.65},
+"loop":"loop",
+"Matrix":[0.971,0.24,-0.24,0.971,-267.5,-44.45]
+}}]},{
+"index":13,
+"duration":4,
+"elements":[]
+},{
+"index":17,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":198.6,"y":14.8},
+"Matrix":[0.999,-0.032,0.032,0.999,-234.6,87.75]
+}}]},{
+"index":19,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo tras void",
+"symbolType":"movieclip",
+"transformationPoint":{"x":105.15,"y":57.2},
+"Matrix":[1,0,0,1,-236.25,69.85]
+}}]}
+]}
+]}},{
+"SYMBOL_name":"brazo delantero void 1",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"34"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cara void idle",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"35"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cuerpo void",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.952,0,0,1,0,0],
+"name":"36"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"piernas void",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.952,0,0,1,0,0],
+"name":"37"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"brazo tras void",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"38"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"brazo void confirm",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.98,0,0,0.975,0,0],
+"name":"39"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cara confirm",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-74.75,16.55],
+"name":"40"
+}}]},{
+"index":2,
+"duration":13,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-72.45,22.65],
+"name":"41"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"brazo void cancel",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.984,0,0,0.99,0,0],
+"name":"42"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"sombra",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"43"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"brazo fre unlok",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.893,0,0,1,0,0],
+"name":"44"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cara unlock",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.925,0,0,1,0,0],
+"name":"45"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cabeza void idle",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"46"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"pata der",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.978,0,0,0.956,0,0],
+"name":"47"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"pata isq",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.883,0,0,0.994,0,0],
+"name":"48"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cuerpo unlok",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.94,0,0,1,0,0],
+"name":"49"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"brazo tras",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.927,0,0,0.999,0,0],
+"name":"50"
+}}]}
+]}
+]}}
+]},
+"metadata":{
+"version":"BTA 1.2.0",
+"name":"void bocina",
+"backgroundColor":"#FFFFFF",
+"width":1280,
+"height":720,
+"asVersion":3,
+"framerate":24
+}}

@@ -1,0 +1,15 @@
+{
+  "title": "Scripted Song Events Pack",
+  "description": "This mod is for people who want to add extra events to their songs.",
+  "optionalDependencies":{"extra-events": ">=1.0.0"},
+  "contributors": [
+    {
+      "name": "Oliverplays_YT",
+      "roles": "Owner and creator of the scripts",
+      "url": "https://gamebanana.com/members/2199256"
+    }
+    ],
+  "api_version": "0.7.5",
+  "mod_version": "1.0.0",
+  "license": "Apache-2.0"
+}

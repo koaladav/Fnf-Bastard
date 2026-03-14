@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bobi.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bobi Down0000" x="0" y="0" width="580" height="488" frameX="0" frameY="-4" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0001" x="0" y="0" width="580" height="488" frameX="0" frameY="-4" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0002" x="580" y="0" width="571" height="492" frameX="-9" frameY="-1" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0003" x="580" y="0" width="571" height="492" frameX="-9" frameY="-1" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0004" x="1151" y="0" width="558" height="493" frameX="-17" frameY="0" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0005" x="1151" y="0" width="558" height="493" frameX="-17" frameY="0" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0006" x="1709" y="0" width="558" height="491" frameX="-17" frameY="-2" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0007" x="1709" y="0" width="558" height="491" frameX="-17" frameY="-2" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0008" x="1709" y="0" width="558" height="491" frameX="-17" frameY="-2" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0009" x="1709" y="0" width="558" height="491" frameX="-17" frameY="-2" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0010" x="1709" y="0" width="558" height="491" frameX="-17" frameY="-2" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0011" x="1709" y="0" width="558" height="491" frameX="-17" frameY="-2" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0012" x="1709" y="0" width="558" height="491" frameX="-17" frameY="-2" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0013" x="1709" y="0" width="558" height="491" frameX="-17" frameY="-2" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Down0014" x="1709" y="0" width="558" height="491" frameX="-17" frameY="-2" frameWidth="580" frameHeight="493"/>
+	<SubTexture name="Bobi Idle0000" x="2267" y="0" width="501" height="570" frameX="0" frameY="-23" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0001" x="2267" y="0" width="501" height="570" frameX="0" frameY="-23" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0002" x="2768" y="0" width="485" height="577" frameX="-9" frameY="-16" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0003" x="2768" y="0" width="485" height="577" frameX="-9" frameY="-16" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0004" x="3253" y="0" width="472" height="586" frameX="-18" frameY="-7" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0005" x="3253" y="0" width="472" height="586" frameX="-18" frameY="-7" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0006" x="0" y="586" width="463" height="592" frameX="-25" frameY="-1" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0007" x="0" y="586" width="463" height="592" frameX="-25" frameY="-1" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0008" x="463" y="586" width="463" height="593" frameX="-25" frameY="0" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0009" x="463" y="586" width="463" height="593" frameX="-25" frameY="0" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0010" x="463" y="586" width="463" height="593" frameX="-25" frameY="0" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0011" x="463" y="586" width="463" height="593" frameX="-25" frameY="0" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Idle0012" x="463" y="586" width="463" height="593" frameX="-25" frameY="0" frameWidth="501" frameHeight="593"/>
+	<SubTexture name="Bobi Left0000" x="926" y="586" width="513" height="579" frameX="0" frameY="-7" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0001" x="926" y="586" width="513" height="579" frameX="0" frameY="-7" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0002" x="1439" y="586" width="516" height="583" frameX="-12" frameY="-3" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0003" x="1439" y="586" width="516" height="583" frameX="-12" frameY="-3" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0004" x="1955" y="586" width="521" height="584" frameX="-19" frameY="-2" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0005" x="1955" y="586" width="521" height="584" frameX="-19" frameY="-2" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0006" x="2476" y="586" width="522" height="586" frameX="-17" frameY="0" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0007" x="2476" y="586" width="522" height="586" frameX="-17" frameY="0" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0008" x="2476" y="586" width="522" height="586" frameX="-17" frameY="0" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0009" x="2476" y="586" width="522" height="586" frameX="-17" frameY="0" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0010" x="2476" y="586" width="522" height="586" frameX="-17" frameY="0" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0011" x="2476" y="586" width="522" height="586" frameX="-17" frameY="0" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0012" x="2476" y="586" width="522" height="586" frameX="-17" frameY="0" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0013" x="2476" y="586" width="522" height="586" frameX="-17" frameY="0" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Left0014" x="2476" y="586" width="522" height="586" frameX="-17" frameY="0" frameWidth="540" frameHeight="586"/>
+	<SubTexture name="Bobi Right0000" x="2998" y="586" width="395" height="605" frameX="-2" frameY="0" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0001" x="2998" y="586" width="395" height="605" frameX="-2" frameY="0" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0002" x="3393" y="586" width="390" height="603" frameX="0" frameY="-2" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0003" x="3393" y="586" width="390" height="603" frameX="0" frameY="-2" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0004" x="0" y="1191" width="388" height="600" frameX="0" frameY="-5" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0005" x="0" y="1191" width="388" height="600" frameX="0" frameY="-5" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0006" x="388" y="1191" width="388" height="598" frameX="0" frameY="-7" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0007" x="388" y="1191" width="388" height="598" frameX="0" frameY="-7" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0008" x="388" y="1191" width="388" height="598" frameX="0" frameY="-7" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0009" x="388" y="1191" width="388" height="598" frameX="0" frameY="-7" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0010" x="388" y="1191" width="388" height="598" frameX="0" frameY="-7" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0011" x="388" y="1191" width="388" height="598" frameX="0" frameY="-7" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0012" x="388" y="1191" width="388" height="598" frameX="0" frameY="-7" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0013" x="388" y="1191" width="388" height="598" frameX="0" frameY="-7" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Right0014" x="388" y="1191" width="388" height="598" frameX="0" frameY="-7" frameWidth="397" frameHeight="605"/>
+	<SubTexture name="Bobi Up0000" x="776" y="1191" width="424" height="679" frameX="0" frameY="0" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0001" x="776" y="1191" width="424" height="679" frameX="0" frameY="0" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0002" x="1200" y="1191" width="421" height="661" frameX="-6" frameY="-18" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0003" x="1200" y="1191" width="421" height="661" frameX="-6" frameY="-18" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0004" x="1621" y="1191" width="419" height="650" frameX="-11" frameY="-29" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0005" x="1621" y="1191" width="419" height="650" frameX="-11" frameY="-29" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0006" x="2040" y="1191" width="415" height="646" frameX="-15" frameY="-33" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0007" x="2040" y="1191" width="415" height="646" frameX="-15" frameY="-33" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0008" x="2040" y="1191" width="415" height="646" frameX="-15" frameY="-33" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0009" x="2040" y="1191" width="415" height="646" frameX="-15" frameY="-33" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0010" x="2040" y="1191" width="415" height="646" frameX="-15" frameY="-33" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0011" x="2040" y="1191" width="415" height="646" frameX="-15" frameY="-33" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0012" x="2040" y="1191" width="415" height="646" frameX="-15" frameY="-33" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0013" x="2040" y="1191" width="415" height="646" frameX="-15" frameY="-33" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Bobi Up0014" x="2040" y="1191" width="415" height="646" frameX="-15" frameY="-33" frameWidth="430" frameHeight="679"/>
+	<SubTexture name="Electricidad0000" x="2455" y="1191" width="463" height="593" frameX="0" frameY="0" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0001" x="2455" y="1191" width="463" height="593" frameX="0" frameY="0" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0002" x="2918" y="1191" width="450" height="590" frameX="-17" frameY="-3" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0003" x="2918" y="1191" width="450" height="590" frameX="-17" frameY="-3" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0004" x="3368" y="1191" width="382" height="586" frameX="-88" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0005" x="3368" y="1191" width="382" height="586" frameX="-88" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0006" x="0" y="1870" width="407" height="584" frameX="-89" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0007" x="0" y="1870" width="407" height="584" frameX="-89" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0008" x="407" y="1870" width="446" height="580" frameX="-90" frameY="-13" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0009" x="407" y="1870" width="446" height="580" frameX="-90" frameY="-13" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0010" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0011" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0012" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0013" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0014" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0015" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0016" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0017" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0018" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0019" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0020" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0021" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0022" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0023" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0024" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0025" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0026" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0027" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0028" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0029" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0030" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0031" x="2150" y="1870" width="435" height="586" frameX="-92" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0032" x="2150" y="1870" width="435" height="586" frameX="-92" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0033" x="2150" y="1870" width="435" height="586" frameX="-92" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0034" x="2585" y="1870" width="419" height="589" frameX="-92" frameY="-4" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0035" x="2585" y="1870" width="419" height="589" frameX="-92" frameY="-4" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0036" x="2585" y="1870" width="419" height="589" frameX="-92" frameY="-4" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0037" x="2585" y="1870" width="419" height="589" frameX="-92" frameY="-4" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0038" x="2585" y="1870" width="419" height="589" frameX="-92" frameY="-4" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0039" x="2150" y="1870" width="435" height="586" frameX="-92" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0040" x="2150" y="1870" width="435" height="586" frameX="-92" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0041" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0042" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0043" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0044" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0045" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0046" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0047" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0048" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0049" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0050" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0051" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0052" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0053" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0054" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0055" x="3004" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0056" x="3436" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0057" x="3436" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0058" x="0" y="2459" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0059" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0060" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0061" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0062" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0063" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0064" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0065" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0066" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0067" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0068" x="2150" y="1870" width="435" height="586" frameX="-92" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0069" x="2150" y="1870" width="435" height="586" frameX="-92" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0070" x="2150" y="1870" width="435" height="586" frameX="-92" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0071" x="2585" y="1870" width="419" height="589" frameX="-92" frameY="-4" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0072" x="2585" y="1870" width="419" height="589" frameX="-92" frameY="-4" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0073" x="2585" y="1870" width="419" height="589" frameX="-92" frameY="-4" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0074" x="2585" y="1870" width="419" height="589" frameX="-92" frameY="-4" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0075" x="2585" y="1870" width="419" height="589" frameX="-92" frameY="-4" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0076" x="2150" y="1870" width="435" height="586" frameX="-92" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0077" x="2150" y="1870" width="435" height="586" frameX="-92" frameY="-7" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0078" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0079" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0080" x="1717" y="1870" width="433" height="585" frameX="-91" frameY="-8" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0081" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0082" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0083" x="1285" y="1870" width="432" height="584" frameX="-90" frameY="-9" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0084" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0085" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0086" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Electricidad0087" x="853" y="1870" width="432" height="581" frameX="-90" frameY="-12" frameWidth="536" frameHeight="593"/>
+	<SubTexture name="Yaha0000" x="432" y="2459" width="495" height="599" frameX="0" frameY="-60" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0001" x="432" y="2459" width="495" height="599" frameX="0" frameY="-60" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0002" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0003" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0004" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0005" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0006" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0007" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0008" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0009" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0010" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0011" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0012" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0013" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0014" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0015" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0016" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0017" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0018" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0019" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0020" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0021" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0022" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0023" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0024" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0025" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0026" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0027" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0028" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0029" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0030" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0031" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0032" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0033" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0034" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0035" x="927" y="2459" width="482" height="639" frameX="-34" frameY="0" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0036" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+	<SubTexture name="Yaha0037" x="1409" y="2459" width="495" height="629" frameX="-34" frameY="-5" frameWidth="529" frameHeight="659"/>
+</TextureAtlas>
