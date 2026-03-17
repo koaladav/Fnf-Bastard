@@ -12,10 +12,10 @@
   ],
   "characters": {
    "player": "void",
-   "girlfriend": "CarloB",
-   "opponent": "Bobi",
+   "girlfriend": "carlob",
+   "opponent": "bobi",
    "opponentVocals": [
-    "Bobi"
+    "bobi"
    ],
    "playerVocals": [
     "void"

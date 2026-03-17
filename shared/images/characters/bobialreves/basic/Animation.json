@@ -1,0 +1,1763 @@
+{
+"ANIMATION":{
+"name":"bobi",
+"StageInstance":{
+"SYMBOL_Instance":{
+"SYMBOL_name":"Animaciones/bobialreves all_basic",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":210.2,"y":228.3},
+"loop":"loop",
+"Matrix":[1,0,0,1,471.85,129.75]
+}},
+"SYMBOL_name":"Animaciones/bobialreves all_basic",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa_2",
+"Frames":[
+{
+"name":"idle",
+"index":0,
+"duration":13,
+"elements":[]
+},{
+"name":"right",
+"index":13,
+"duration":15,
+"elements":[]
+},{
+"name":"up",
+"index":28,
+"duration":15,
+"elements":[]
+},{
+"name":"left",
+"index":43,
+"duration":15,
+"elements":[]
+},{
+"name":"down",
+"index":58,
+"duration":15,
+"elements":[]
+}
+]},{
+"Layer_name":"Capa_1",
+"Frames":[
+{
+"index":0,
+"duration":13,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Animaciones 2/Bobi Idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":5.3,"y":33.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,196.75,248]
+}}]},{
+"index":13,
+"duration":15,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Animaciones 2/Bobi Left",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":-35.05,"y":22.5},
+"loop":"loop",
+"Matrix":[1,0,0,1,209.65,245.25]
+}}]},{
+"index":28,
+"duration":15,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Animaciones 2/Bobi Up",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":38.05,"y":17.9},
+"loop":"loop",
+"Matrix":[1,0,0,1,183.3,202.85]
+}}]},{
+"index":43,
+"duration":15,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Animaciones 2/Bobi Right",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":-35.05,"y":22.5},
+"loop":"loop",
+"Matrix":[1,0,0,1,216.65,250.25]
+}}]},{
+"index":58,
+"duration":15,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"Animaciones 2/Bobi Down",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":-48.4,"y":-11.6},
+"loop":"loop",
+"Matrix":[1,0,0,1,259.95,350]
+}}]}
+]}
+]}},
+"SYMBOL_DICTIONARY":{
+"Symbols":[
+{
+"SYMBOL_name":"Animaciones 2/Bobi Idle",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 6",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo volteao delante idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":102.95,"y":16.65},
+"loop":"loop",
+"Matrix":[0.978,-0.21,0.21,0.978,-155.75,-5.65]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo volteao delante idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":102.9,"y":16.6},
+"loop":"loop",
+"Matrix":[0.99,-0.138,0.138,0.99,-148.8,-26.3]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo volteao delante idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":102.9,"y":16.65},
+"loop":"loop",
+"Matrix":[0.997,-0.073,0.073,0.997,-145.45,-41.05]
+}}]},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo volteao delante idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":102.9,"y":16.65},
+"loop":"loop",
+"Matrix":[1,-0.009,0.009,1,-142.6,-50.8]
+}}]},{
+"index":8,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo volteao delante idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":57.9,"y":88.75},
+"loop":"loop",
+"Matrix":[1,0,0,1,-142.45,-51.75]
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":86.75,"y":46.5},
+"loop":"loop",
+"Matrix":[-0.998,0.069,0.069,0.998,12.65,-135.2]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":86.75,"y":46.45},
+"loop":"loop",
+"Matrix":[-0.989,0.151,0.151,0.989,15.5,-147.8]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":86.7,"y":46.55},
+"loop":"loop",
+"Matrix":[-0.997,0.078,0.078,0.997,16.35,-152]
+}}]},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":86.75,"y":46.55},
+"loop":"loop",
+"Matrix":[-1,0.026,0.026,1,17.35,-152.9]
+}}]},{
+"index":8,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":86.7,"y":46.6},
+"loop":"loop",
+"Matrix":[-1,0,0,1,17.35,-151.9]
+}}]}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.3},
+"loop":"loop",
+"Matrix":[-0.998,0.069,0.069,0.998,93.4,-248]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.3},
+"loop":"loop",
+"Matrix":[-0.989,0.151,0.151,0.989,86.7,-266.9]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.35},
+"loop":"loop",
+"Matrix":[-0.997,0.078,0.078,0.997,96.1,-265.5]
+}}]},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.8,"y":120.25},
+"loop":"loop",
+"Matrix":[-1,0.026,0.026,1,102.9,-262.1]
+}}]},{
+"index":8,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.25},
+"loop":"loop",
+"Matrix":[-1,0,0,1,105.75,-258.8]
+}}]}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":189,"y":408.75},
+"loop":"loop",
+"Matrix":[1.069,0,0,0.961,-196.75,-58.35]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":189.05,"y":408.7},
+"loop":"loop",
+"Matrix":[1.032,0,0,0.976,-189.8,-64.35]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":189.05,"y":408.7},
+"loop":"loop",
+"Matrix":[1.011,0,0,0.993,-185.75,-71.35]
+}}]},{
+"index":6,
+"duration":7,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":189.05,"y":204.35},
+"loop":"loop",
+"Matrix":[1,0,0,1,-183.75,-74.35]
+}}]}
+]},{
+"Layer_name":"Capa 7",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microtras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":64.9,"y":70.6},
+"loop":"loop",
+"Matrix":[0.927,-0.328,0.434,0.925,-9.25,-71.6]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"mano mic tras idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":89.7,"y":107.2},
+"loop":"loop",
+"Matrix":[0.968,-0.226,0.331,0.956,-43.95,-103.85]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microtras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":64.95,"y":70.55},
+"loop":"loop",
+"Matrix":[0.962,-0.201,0.305,0.975,0,-87.8]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"mano mic tras idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":89.65,"y":107.2},
+"loop":"loop",
+"Matrix":[0.99,-0.093,0.199,0.991,-30,-124.45]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microtras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":64.95,"y":70.55},
+"loop":"loop",
+"Matrix":[0.973,-0.198,0.241,0.978,10.55,-94.1]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"mano mic tras idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":89.75,"y":107.2},
+"loop":"loop",
+"Matrix":[0.994,-0.09,0.134,0.994,-17.05,-130.95]
+}}]},{
+"index":6,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microtras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":64.95,"y":70.55},
+"loop":"loop",
+"Matrix":[0.984,-0.177,0.177,0.984,19.2,-102.95]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"mano mic tras idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":89.85,"y":107.15},
+"loop":"loop",
+"Matrix":[0.998,-0.069,0.069,0.998,-5.95,-140.4]
+}}]},{
+"index":8,
+"duration":5,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microtras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":65,"y":70.55},
+"loop":"loop",
+"Matrix":[0.994,-0.109,0.109,0.994,22.5,-103]
+}},
+{"SYMBOL_Instance":{
+"SYMBOL_name":"mano mic tras idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":89.75,"y":107.2},
+"loop":"loop",
+"Matrix":[1,0,0,1,0,-142.1]
+}}]}
+]}
+]}},{
+"SYMBOL_name":"Animaciones 2/Bobi Left",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":79.65,"y":27.65},
+"loop":"loop",
+"Matrix":[0.681,0.732,-0.732,0.681,16.65,-133]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":79.6,"y":27.7},
+"loop":"loop",
+"Matrix":[0.468,0.883,-0.883,0.468,59.7,-124]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":85.15,"y":34.2},
+"loop":"loop",
+"Matrix":[0.378,0.926,-0.926,0.378,83.9,-110.5]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.8,"y":43.1},
+"loop":"loop",
+"Matrix":[0.259,0.966,-0.966,0.259,95.4,-109.8]
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-183.05,-200.65],
+"name":"1"
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara right",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":72.2,"y":65.95},
+"loop":"loop",
+"Matrix":[-0.997,-0.073,-0.073,0.997,-32.45,-177.45]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara right",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":72.2,"y":66.2},
+"loop":"loop",
+"Matrix":[-1,-0.03,-0.03,1,-21.7,-174.2]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara right",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":72.1,"y":65.95},
+"loop":"loop",
+"Matrix":[-1,0,0,1,-22.2,-174.55]
+}}]}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.1},
+"loop":"loop",
+"Matrix":[-0.982,-0.188,-0.188,0.982,85.2,-236.5]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.2},
+"loop":"loop",
+"Matrix":[-0.988,-0.154,-0.154,0.988,87.65,-242.15]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.2},
+"loop":"loop",
+"Matrix":[-0.994,-0.111,-0.111,0.994,95.5,-244]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.2},
+"loop":"loop",
+"Matrix":[-0.997,-0.082,-0.082,0.997,92.9,-247.85]
+}}]}
+]},{
+"Layer_name":"Capa 6",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo volteao delante idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":93.9,"y":13.05},
+"loop":"loop",
+"Matrix":[0.995,0.099,-0.099,0.995,-204.1,-74.15]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo volteao delante idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":93.85,"y":13},
+"loop":"loop",
+"Matrix":[1,0.03,-0.03,1,-192.4,-67.65]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo volteao delante idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":93.9,"y":13.05},
+"loop":"loop",
+"Matrix":[0.999,-0.039,0.039,0.999,-182.2,-49.85]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo volteao delante idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":93.95,"y":13.15},
+"loop":"loop",
+"Matrix":[0.995,-0.1,0.1,0.995,-182.65,-44.15]
+}}]}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":188.95,"y":408.75},
+"loop":"loop",
+"Matrix":[1,0,0.136,1.022,-251.3,-83.35]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":189.05,"y":408.7},
+"loop":"loop",
+"Matrix":[1,0,0.104,1.012,-238.15,-79.35]
+}}]},{
+"index":4,
+"duration":11,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":188.95,"y":408.75},
+"loop":"loop",
+"Matrix":[1,0,0.069,1,-223.9,-74.35]
+}}]}
+]},{
+"Layer_name":"Capa 7",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":92.95,"y":23.35},
+"loop":"loop",
+"Matrix":[-0.254,0.942,0.965,0.261,-51.4,-146.8]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":92.95,"y":23.45},
+"loop":"loop",
+"Matrix":[-0.39,0.894,0.916,0.4,-12.6,-145.6]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":93.05,"y":23.4},
+"loop":"loop",
+"Matrix":[-0.47,0.854,0.876,0.482,14.8,-127.9]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":92.95,"y":23.35},
+"loop":"loop",
+"Matrix":[-0.528,0.82,0.841,0.541,21,-126.05]
+}}]}
+]}
+]}},{
+"SYMBOL_name":"Animaciones 2/Bobi Up",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.6,"y":43.1},
+"loop":"loop",
+"Matrix":[-0.249,0.968,-0.968,-0.249,203.9,-65]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.6,"y":43.05},
+"loop":"loop",
+"Matrix":[-0.112,0.994,-0.994,-0.112,218.65,-73]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.65,"y":43.05},
+"loop":"loop",
+"Matrix":[0.053,0.999,-0.999,0.053,191.05,-105.5]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.65,"y":43.1},
+"loop":"loop",
+"Matrix":[0.161,0.987,-0.987,0.161,181.65,-109.25]
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-27.15,-246.45],
+"name":"2"
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara up",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.45,"y":84.85},
+"loop":"loop",
+"Matrix":[-0.997,-0.082,-0.082,0.997,96.4,-210.3]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara up",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.4,"y":84.85},
+"loop":"loop",
+"Matrix":[-0.999,-0.034,-0.034,0.999,64.7,-202.2]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara up",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":66.35,"y":84.9},
+"loop":"loop",
+"Matrix":[-1,0,0,1,63.8,-202.75]
+}}]}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.25},
+"loop":"loop",
+"Matrix":[-0.894,-0.449,-0.449,0.894,259.6,-199.25]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.9,"y":120.2},
+"loop":"loop",
+"Matrix":[-0.921,-0.39,-0.39,0.921,242.55,-200.05]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.95,"y":120.3},
+"loop":"loop",
+"Matrix":[-0.938,-0.345,-0.345,0.938,211.2,-198.95]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.3},
+"loop":"loop",
+"Matrix":[-0.95,-0.313,-0.313,0.95,210.35,-204.55]
+}}]}
+]},{
+"Layer_name":"Capa 5",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"mano up tras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":-0.15,"y":66.1},
+"loop":"loop",
+"Matrix":[-0.332,-0.943,-0.943,0.332,91.55,-90.25]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"mano up tras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":-0.1,"y":66},
+"loop":"loop",
+"Matrix":[-0.498,-0.867,-0.867,0.498,68.7,-80.75]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"mano up tras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":-0.05,"y":65.95},
+"loop":"loop",
+"Matrix":[-0.589,-0.807,-0.807,0.589,45.8,-69.55]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"mano up tras",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":0,"y":65.95},
+"loop":"loop",
+"Matrix":[-0.623,-0.782,-0.782,0.623,44.1,-71.75]
+}}]}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo up",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":197.3,"y":439.05},
+"loop":"loop",
+"Matrix":[0.97,0,-0.171,1.07,-82.85,-94.7]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo up",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":197.25,"y":439.05},
+"loop":"loop",
+"Matrix":[0.985,0,-0.123,1.027,-107,-75.75]
+}}]},{
+"index":4,
+"duration":11,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo up",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":197.3,"y":439},
+"loop":"loop",
+"Matrix":[1,0,-0.1,1,-119.9,-63.75]
+}}]}
+]}
+]}},{
+"SYMBOL_name":"Animaciones 2/Bobi Right",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.7,"y":43.15},
+"loop":"loop",
+"Matrix":[0.92,0.391,-0.391,0.92,103.1,-150.7]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.7,"y":43.2},
+"loop":"loop",
+"Matrix":[0.788,0.616,-0.616,0.788,98.75,-139.6]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.8,"y":43.2},
+"loop":"loop",
+"Matrix":[0.602,0.799,-0.799,0.602,93.05,-130.7]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.8,"y":43.15},
+"loop":"loop",
+"Matrix":[0.5,0.866,-0.866,0.5,101.35,-120.9]
+}}]}
+]},{
+"Layer_name":"Capa 6",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo apuntar",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":221.95,"y":45.85},
+"loop":"loop",
+"Matrix":[0.967,0.254,-0.254,0.967,-232.8,-138.35]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo apuntar",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":221.9,"y":45.85},
+"loop":"loop",
+"Matrix":[0.99,0.139,-0.139,0.99,-251.15,-113.95]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo apuntar",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":222,"y":45.85},
+"loop":"loop",
+"Matrix":[0.999,0.039,-0.039,0.999,-278.85,-91.65]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo apuntar",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":118,"y":84.85},
+"loop":"loop",
+"Matrix":[1,0,0,1,-280.8,-83]
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-113.2,-146.95],
+"name":"3"
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara left",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":83.7,"y":49.55},
+"loop":"loop",
+"Matrix":[-0.995,0.095,0.095,0.995,40.95,-152.4]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara left",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":83.75,"y":49.55},
+"loop":"loop",
+"Matrix":[-0.999,0.048,0.048,0.999,32.05,-149.4]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara left",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":83.75,"y":49.6},
+"loop":"loop",
+"Matrix":[-1,0,0,1,28.35,-148]
+}}]}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.8,"y":120.25},
+"loop":"loop",
+"Matrix":[-0.912,0.41,0.41,0.912,63.3,-300.95]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.15},
+"loop":"loop",
+"Matrix":[-0.937,0.35,0.35,0.937,63.5,-299.2]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.8,"y":120.2},
+"loop":"loop",
+"Matrix":[-0.953,0.304,0.304,0.953,61.55,-294.55]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.2},
+"loop":"loop",
+"Matrix":[-0.966,0.259,0.259,0.966,64.75,-291.15]
+}}]}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":189.1,"y":408.7},
+"loop":"loop",
+"Matrix":[1,0,-0.054,1.024,-173.6,-84.35]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":189.05,"y":408.7},
+"loop":"loop",
+"Matrix":[1,0,-0.049,1.012,-175.9,-79.35]
+}}]},{
+"index":4,
+"duration":11,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo idle bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":189.1,"y":408.75},
+"loop":"loop",
+"Matrix":[1,0,-0.012,1,-191.05,-74.35]
+}}]}
+]},{
+"Layer_name":"Capa 7",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":92.6,"y":15.9},
+"loop":"loop",
+"Matrix":[-0.533,-0.846,0.846,-0.533,76.85,18.8]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":92.5,"y":15.85},
+"loop":"loop",
+"Matrix":[-0.5,-0.866,0.866,-0.5,63.45,30.35]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":92.45,"y":15.9},
+"loop":"loop",
+"Matrix":[-0.43,-0.903,0.903,-0.43,43.35,45.65]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delantero idle",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":92.5,"y":15.9},
+"loop":"loop",
+"Matrix":[-0.325,-0.946,0.946,-0.325,33,47.95]
+}}]}
+]}
+]}},{
+"SYMBOL_name":"Animaciones 2/Bobi Down",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 7",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.75,"y":43.25},
+"loop":"loop",
+"Matrix":[0.516,0.857,-0.857,0.516,86.25,-98.85]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.8,"y":43.15},
+"loop":"loop",
+"Matrix":[0.613,0.79,-0.79,0.613,75.3,-109.55]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.85,"y":43.25},
+"loop":"loop",
+"Matrix":[0.698,0.716,-0.716,0.698,77.45,-127.05]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"microfono del temu",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":82.8,"y":43.1},
+"loop":"loop",
+"Matrix":[0.769,0.639,-0.639,0.769,68.25,-123.75]
+}}]}
+]},{
+"Layer_name":"Capa 6",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delante down vuelta",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":176.95,"y":14.95},
+"loop":"loop",
+"Matrix":[0.978,-0.21,0.21,0.978,-289.1,-14.25]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delante down vuelta",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":176.95,"y":14.85},
+"loop":"loop",
+"Matrix":[0.992,-0.129,0.129,0.992,-287.8,-36.55]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delante down vuelta",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":176.95,"y":14.85},
+"loop":"loop",
+"Matrix":[1,-0.009,0.009,1,-274.45,-58.95]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"brazo delante down vuelta",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":178,"y":14.95},
+"loop":"loop",
+"Matrix":[1,0,0,1,-274.35,-60.6]
+}}]}
+]},{
+"Layer_name":"Capa 2",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-173.1,-139.25],
+"name":"4"
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara down",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":75.45,"y":67.65},
+"loop":"loop",
+"Matrix":[-0.994,-0.108,-0.108,0.994,-11.9,-161.5]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara down",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":75.45,"y":67.65},
+"loop":"loop",
+"Matrix":[-1,-0.03,-0.03,1,-11.8,-167.45]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cara down",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":75.5,"y":67.6},
+"loop":"loop",
+"Matrix":[-1,0,0,1,-13.05,-167.25]
+}}]}
+]},{
+"Layer_name":"Capa 3",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.8,"y":120.15},
+"loop":"loop",
+"Matrix":[-0.998,-0.058,-0.058,0.998,83.6,-234.3]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.8,"y":120.15},
+"loop":"loop",
+"Matrix":[-1,0.002,0.002,1,78.2,-249.35]
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.75,"y":120.2},
+"loop":"loop",
+"Matrix":[-0.997,0.08,0.08,0.997,71.15,-263.55]
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cabeza bobi",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":140.85,"y":120.25},
+"loop":"loop",
+"Matrix":[-0.994,0.11,0.11,0.994,66.95,-266.45]
+}}]}
+]},{
+"Layer_name":"Capa 4",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo down",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":232.15,"y":331.9},
+"loop":"loop",
+"Matrix":[1.073,0,0,0.961,-307.65,-85.6]
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo down",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":232.15,"y":331.9},
+"loop":"loop",
+"Matrix":[1.034,0,0,0.982,-298.65,-92.55]
+}}]},{
+"index":4,
+"duration":11,
+"elements":[
+{"SYMBOL_Instance":{
+"SYMBOL_name":"cuerpo down",
+"firstFrame":0,
+"symbolType":"graphic",
+"transformationPoint":{"x":232.15,"y":170.9},
+"loop":"loop",
+"Matrix":[1,0,0,1,-290.65,-98.55]
+}}]}
+]},{
+"Layer_name":"Capa 8",
+"Frames":[
+{
+"index":0,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-27.9,-105.6],
+"name":"5"
+}}]},{
+"index":2,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-28.95,-117.45],
+"name":"6"
+}}]},{
+"index":4,
+"duration":2,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-35.15,-113.9],
+"name":"7"
+}}]},{
+"index":6,
+"duration":9,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-40.2,-114.5],
+"name":"8"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"brazo volteao delante idle",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,-29.7,-3.05],
+"name":"9"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cara idle bobi",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"10"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cabeza bobi",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"11"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cuerpo idle bobi",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.936,0,0,0.97,0,0],
+"name":"12"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"microtras",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,0.978,8,-10],
+"name":"13"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"mano mic tras idle",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,0.989,14.3,-6.65],
+"name":"14"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"microfono del temu",
+"TIMELINE":{
+"LAYERS":[
+{"Layer_name":"Layer 1",
+"Frames":[
+{"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,-24.05],
+"name":"0"
+}}]}]}]}},{
+"SYMBOL_name":"cara right",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"15"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"brazo delantero idle",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"16"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cara up",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"17"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"mano up tras",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1.001,0,0,1.001,0,0],
+"name":"18"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cuerpo up",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,0.922,0,0],
+"name":"19"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"brazo apuntar",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"20"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cara left",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"21"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"brazo delante down vuelta",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"22"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cara down",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[1,0,0,1,0,0],
+"name":"23"
+}}]}
+]}
+]}},{
+"SYMBOL_name":"cuerpo down",
+"TIMELINE":{
+"LAYERS":[
+{
+"Layer_name":"Capa 1",
+"Frames":[
+{
+"index":0,
+"duration":1,
+"elements":[
+{"ATLAS_SPRITE_instance":{
+"Matrix":[0.932,0,0,1,0,0],
+"name":"24"
+}}]}
+]}
+]}}
+]},
+"metadata":{
+"version":"BTA 1.2.0",
+"name":"bobi",
+"backgroundColor":"#FFFFFF",
+"width":1280,
+"height":720,
+"asVersion":3,
+"framerate":24
+}}

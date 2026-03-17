@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "name": "Bobi",
+  "name": "bobialreves",
   "renderType": "multianimateatlas",
-  "assetPath": "shared:characters/bobi/basic",
+  "assetPath": "shared:characters/bobialreves/basic",
   "offsets": [3, -44],
   "cameraOffsets": [-3, 32],
   "animations": [
@@ -27,13 +27,13 @@
       "prefix": "right"
     },
     {
-      "assetPath": "shared:characters/bobi/extra-animations",
+      "assetPath": "shared:characters/bobialreves/extra-animations",
       "name": "ugh",
       "prefix": "ugh",
       "offsets": [5, -40]
     },
     {
-      "assetPath": "shared:characters/bobi/extra-animations",
+      "assetPath": "shared:characters/bobialreves/extra-animations",
       "name": "beat it",
       "prefix": "beat it",
       "offsets": [5, -40]
