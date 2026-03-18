@@ -23,12 +23,12 @@ enum PupilState
 }
 
 /**
- * The various states CarloB can be in, controlling her animations.
+ * The various states carlob can be in, controlling her animations.
  */
-enum CarloBState
+enum carlobState
 {
   /**
-   * CarloB is in her default state. 'danceLeft' or 'danceRight' may be playing right now,
+   * carlob is in her default state. 'danceLeft' or 'danceRight' may be playing right now,
    * or maybe her 'combo' or 'drop' animations are active.
    *
    * Transitions:
@@ -38,7 +38,7 @@ enum CarloBState
   DEFAULT;
 
   /**
-   * CarloB has recognized the player is at low health,
+   * carlob has recognized the player is at low health,
    * but has to wait for the appropriate point in the animation to move on.
    *
    * Transitions:
@@ -51,7 +51,7 @@ enum CarloBState
   PRE_RAISE;
 
   /**
-   * CarloB is raising her knife.
+   * carlob is raising her knife.
    * When moving to this state, immediately play the 'raiseKnife' animation.
    *
    * Transitions:
@@ -61,7 +61,7 @@ enum CarloBState
   RAISE;
 
   /**
-   * CarloB is holding her knife ready to strike.
+   * carlob is holding her knife ready to strike.
    * During this state, hold the animation on the first frame, and play it at random intervals.
    * This makes the blink look less periodic.
    *
@@ -73,7 +73,7 @@ enum CarloBState
   READY;
 
   /**
-   * CarloB is about to lower her knife.
+   * carlob is about to lower her knife.
    * When moving to this state, play the 'lowerKnife' animation on the next beat.
    *
    * Transitions:
@@ -83,7 +83,7 @@ enum CarloBState
   LOWER;
 
   /**
-   * CarloB's hair is blowing to the side.
+   * carlob's hair is blowing to the side.
    * When moving to this state, immediately play the 'hairBlowNormal' animation.
    * If still in this state when the animation completes, loop the animation.
    *
@@ -93,7 +93,7 @@ enum CarloBState
   HAIR_BLOWING;
 
   /**
-   * CarloB's hair is returning to normal.
+   * carlob's hair is returning to normal.
    * When moving to this state, immediately play the 'hairFallNormal' animation.
    *
    * Transitions:
@@ -102,7 +102,7 @@ enum CarloBState
   HAIR_FALLING;
 
   /**
-   * CarloB's hair is blowing to the side, with her knife raised in the air.
+   * carlob's hair is blowing to the side, with her knife raised in the air.
    * When moving to this state, immediately play the 'hairBlowKnife' animation.
    * If still in this state when the animation completes, loop the animation.
    *
@@ -112,7 +112,7 @@ enum CarloBState
   HAIR_BLOWING_RAISE;
 
   /**
-   * CarloB's hair is returning to normal, while her knife is raised in the air.
+   * carlob's hair is returning to normal, while her knife is raised in the air.
    * When moving to this state, immediately play the 'hairFallKnife' animation.
    *
    * Transitions:
@@ -121,13 +121,13 @@ enum CarloBState
   HAIR_FALLING_RAISE;
 }
 
-class CarloBBaseCharacter extends AnimateAtlasCharacter
+class carlobBaseCharacter extends AnimateAtlasCharacter
 {
   /**
-   * CarloB's animations are tracked in a simple state machine.
+   * carlob's animations are tracked in a simple state machine.
    * Given the current state and an incoming event, the state changes.
    */
-  var currentState:CarloBState = CarloBState.DEFAULT;
+  var currentState:carlobState = carlobState.DEFAULT;
 
   /**
    * The current state of A-Bot's pupils, tracked in a simple state machine.
@@ -135,42 +135,42 @@ class CarloBBaseCharacter extends AnimateAtlasCharacter
   var pupilState:PupilState = PupilState.RIGHT;
 
   /**
-   * At this amount of life, CarloB will raise her knife.
+   * At this amount of life, carlob will raise her knife.
    */
   final VULTURE_THRESHOLD:Float = 0.25 * 2;
 
   /**
-   * CarloB blinks every X beats, with X being randomly generated each time.
+   * carlob blinks every X beats, with X being randomly generated each time.
    * This keeps the animation from looking too periodic.
    */
   /**
-   * The minimum amount of time CarloB will blink for.
+   * The minimum amount of time carlob will blink for.
    */
   final MIN_BLINK_DELAY:Int = 3;
 
   /**
-   * The maximum amount of time CarloB will blink for.
+   * The maximum amount of time carlob will blink for.
    */
   final MAX_BLINK_DELAY:Int = 7;
 
   /**
    * A timer that counts down to zero.
-   * When it reaches zero, CarloB will blink.
+   * When it reaches zero, carlob will blink.
    */
   var blinkCountdown:Int = MIN_BLINK_DELAY;
 
   /**
-   * When true, CarloB's hair will start blowing to the side, used in Week 3.
+   * When true, carlob's hair will start blowing to the side, used in Week 3.
    * Depending on the state she's in, her hair will blow with or without her knife raised.
    */
   var trainPassing:Bool = false;
 
   public function new(characterId:String)
   {
-    // This tells CharacterDataParser to load CarloB instead of an invalid character!
+    // This tells CharacterDataParser to load carlob instead of an invalid character!
     if (characterId == "UNKNOWN")
     {
-      characterId = "CarloB";
+      characterId = "carlob";
     }
 
     super(characterId);
@@ -226,7 +226,7 @@ class CarloBBaseCharacter extends AnimateAtlasCharacter
     // Then, perform the appropriate animation for the current state.
     switch (currentState)
     {
-      case CarloBState.DEFAULT:
+      case carlobState.DEFAULT:
         if (hasDanced)
         {
           playAnimation('danceRight', forceRestart);
@@ -236,10 +236,10 @@ class CarloBBaseCharacter extends AnimateAtlasCharacter
           playAnimation('danceLeft', forceRestart);
         }
         hasDanced = !hasDanced;
-      case CarloBState.PRE_RAISE:
+      case carlobState.PRE_RAISE:
         playAnimation('danceLeft', false);
         hasDanced = false;
-      case CarloBState.READY:
+      case carlobState.READY:
         if (blinkCountdown == 0)
         {
           playAnimation('idleKnife', false);
@@ -249,7 +249,7 @@ class CarloBBaseCharacter extends AnimateAtlasCharacter
         {
           blinkCountdown--;
         }
-      case CarloBState.LOWER:
+      case carlobState.LOWER:
         if (getCurrentAnimation() != 'lowerKnife')
         {
           playAnimation('lowerKnife');
@@ -330,7 +330,7 @@ class CarloBBaseCharacter extends AnimateAtlasCharacter
 
     synchronizeShader();
 
-    // Set the visibility of ABot to match CarloB's.
+    // Set the visibility of ABot to match carlob's.
     abot.visible = this.visible;
     pupil.visible = this.visible;
     eyeWhites.visible = this.visible;
@@ -450,7 +450,7 @@ class CarloBBaseCharacter extends AnimateAtlasCharacter
 
     switch (currentState)
     {
-      case CarloBState.RAISE, CarloBState.LOWER, CarloBState.HAIR_BLOWING, CarloBState.HAIR_FALLING, CarloBState.HAIR_BLOWING_RAISE, CarloBState.HAIR_FALLING_RAISE:
+      case carlobState.RAISE, carlobState.LOWER, carlobState.HAIR_BLOWING, carlobState.HAIR_FALLING, carlobState.HAIR_BLOWING_RAISE, carlobState.HAIR_FALLING_RAISE:
         animationFinished = true;
         transitionState();
       default:
@@ -464,7 +464,7 @@ class CarloBBaseCharacter extends AnimateAtlasCharacter
 
     switch (currentState)
     {
-      case CarloBState.PRE_RAISE:
+      case carlobState.PRE_RAISE:
         if (name == "danceLeft" && frameNumber == 13)
         {
           animationFinished = true;
@@ -486,13 +486,13 @@ class CarloBBaseCharacter extends AnimateAtlasCharacter
 
     if (raised)
     {
-      currentState = CarloBState.HAIR_BLOWING_RAISE;
+      currentState = carlobState.HAIR_BLOWING_RAISE;
       playAnimation('hairBlowKnife');
       animationFinished = false;
     }
     else
     {
-      currentState = CarloBState.HAIR_BLOWING;
+      currentState = carlobState.HAIR_BLOWING;
       playAnimation('hairBlowNormal');
       animationFinished = false;
     }
@@ -504,53 +504,53 @@ class CarloBBaseCharacter extends AnimateAtlasCharacter
 
     switch (currentState)
     {
-      case CarloBState.DEFAULT:
+      case carlobState.DEFAULT:
         if (PlayState.instance.health <= VULTURE_THRESHOLD)
         {
-          currentState = CarloBState.PRE_RAISE;
+          currentState = carlobState.PRE_RAISE;
         }
         else
         {
-          currentState = CarloBState.DEFAULT;
+          currentState = carlobState.DEFAULT;
         }
         checkTrainPassing();
-      case CarloBState.PRE_RAISE:
+      case carlobState.PRE_RAISE:
         if (PlayState.instance.health > VULTURE_THRESHOLD)
         {
-          currentState = CarloBState.DEFAULT;
+          currentState = carlobState.DEFAULT;
         }
         else if (animationFinished)
         {
-          currentState = CarloBState.RAISE;
+          currentState = carlobState.RAISE;
           playAnimation('raiseKnife');
           animationFinished = false;
         }
         checkTrainPassing();
-      case CarloBState.RAISE:
+      case carlobState.RAISE:
         if (animationFinished)
         {
-          currentState = CarloBState.READY;
+          currentState = carlobState.READY;
           animationFinished = false;
         }
         checkTrainPassing(true);
-      case CarloBState.READY:
+      case carlobState.READY:
         if (PlayState.instance.health > VULTURE_THRESHOLD)
         {
-          currentState = CarloBState.LOWER;
+          currentState = carlobState.LOWER;
           // lowerKnife will play on the next beat, so it syncs up properly
         }
         checkTrainPassing(true);
-      case CarloBState.LOWER:
+      case carlobState.LOWER:
         if (animationFinished)
         {
-          currentState = CarloBState.DEFAULT;
+          currentState = carlobState.DEFAULT;
           animationFinished = false;
         }
         checkTrainPassing();
-      case CarloBState.HAIR_BLOWING:
+      case carlobState.HAIR_BLOWING:
         if (!trainPassing)
         {
-          currentState = CarloBState.HAIR_FALLING;
+          currentState = carlobState.HAIR_FALLING;
           playAnimation('hairFallNormal');
           animationFinished = false;
         }
@@ -559,16 +559,16 @@ class CarloBBaseCharacter extends AnimateAtlasCharacter
           playAnimation('hairBlowNormal');
           animationFinished = false;
         }
-      case CarloBState.HAIR_FALLING:
+      case carlobState.HAIR_FALLING:
         if (animationFinished)
         {
-          currentState = CarloBState.DEFAULT;
+          currentState = carlobState.DEFAULT;
           animationFinished = false;
         }
-      case CarloBState.HAIR_BLOWING_RAISE:
+      case carlobState.HAIR_BLOWING_RAISE:
         if (!trainPassing)
         {
-          currentState = CarloBState.HAIR_FALLING_RAISE;
+          currentState = carlobState.HAIR_FALLING_RAISE;
           playAnimation('hairFallKnife');
           animationFinished = false;
         }
@@ -577,14 +577,14 @@ class CarloBBaseCharacter extends AnimateAtlasCharacter
           playAnimation('hairBlowKnife');
           animationFinished = false;
         }
-      case CarloBState.HAIR_FALLING_RAISE:
+      case carlobState.HAIR_FALLING_RAISE:
         if (animationFinished)
         {
-          currentState = CarloBState.READY;
+          currentState = carlobState.READY;
           animationFinished = false;
         }
       default:
-        currentState = CarloBState.DEFAULT;
+        currentState = carlobState.DEFAULT;
     }
   }
 }
